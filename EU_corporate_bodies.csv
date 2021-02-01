@@ -1,889 +1,889 @@
-authority-code,corporate_body_classification,name
-EAEC,CB_EU,European Atomic Energy Community
-EURUN,CB_EU,European Union
-COM,EU_INST,European Commission
-EP,EU_INST,European Parliament
-EURCOU,EU_INST,European Council
-CONSIL,EU_INST,Council of the European Union
-ECB,EU_INST,European Central Bank
-EIB,EU_BODY,European Investment Bank
-EIF,EU_BODY,European Investment Fund
-CJ,EU_INST,Court of Justice
-CURIA,EU_INST,Court of Justice of the European Union
-GCEU,EU_INST,General Court
-ECA,EU_INST,European Court of Auditors
-EEAS,EU_BODY,European External Action Service
-HRUFASP,EU_BODY,High Representative of the Union
-EESC,EU_BODY,European Economic and Social Committee
-OMB,EU_BODY,European Ombudsman
-EDPS,EU_BODY,European Data Protection Supervisor
-EPSO,EU_INTERINSTSERV,European Personnel Selection Office
-CDT,AGENCY_DEC,Translation Centre
-CEDEFOP,AGENCY_DEC,Cedefop
-CPVO,AGENCY_DEC,Community Plant Variety Office
-OSHA,AGENCY_DEC,European Agency for Safety and Health at Work
-ECDC,AGENCY_DEC,European Centre for Disease Prevention and Control
-ECHA,AGENCY_DEC,European Chemicals Agency
-EDA,AGENCY_CFSP,European Defence Agency
-EFSA,AGENCY_DEC,European Food Safety Authority
-EGSA,AGENCY_DEC,European GNSS Agency
-EUROFOUND,AGENCY_DEC,Eurofound
-EIGE,AGENCY_DEC,European Institute for Gender Equality
-EMSA,AGENCY_DEC,European Maritime Safety Agency
-EEA,AGENCY_DEC,European Environment Agency
-EMEA,AGENCY_DEC,European Medicines Agency
-EMCDDA,AGENCY_DEC,European Monitoring Centre for Drugs and Drug Addiction
-ETF,AGENCY_DEC,European Training Foundation
-FRA,AGENCY_DEC,European Union Agency for Fundamental Rights
-EUISS,AGENCY_CFSP,European Union Institute for Security Studies
-EUSC,AGENCY_CFSP,European Union Satellite Centre
-EACEA,AGENCY_EXEC,"Education, Audiovisual and Culture Executive Agency"
-ERC,AGENCY_EXEC,European Research Council Executive Agency
-REA,AGENCY_EXEC,Research Executive Agency
-EURATOM,AGENCY_EURATOM,Euratom Supply Agency
-FUSEN,AGENCY_EURATOM,Fusion for Energy Joint Undertaking
-EIT,AGENCY_OTHER,European Institute of Innovation and Technology
-EASO,AGENCY_DEC,European Asylum Support Office
-EURAG,CB_EU,EU body or agency
-PUBL,EU_INTERINSTSERV,Publications Office
-MARE,DIR_GEN,Directorate-General for Maritime Affairs and Fisheries
-ENER,DIR_GEN,Directorate-General for Energy
-MOVE,DIR_GEN,Directorate-General for Mobility and Transport
-ENV,DIR_GEN,Directorate-General for Environment
-CLIMA,DIR_GEN,Directorate-General for Climate Action
-COMMU,DIR_GEN,Directorate-General for Communication
-AFN,CB_OTHER,Association française de normalisation
-WHO,CB_INT,World Health Organization
-SESAR,EU_JU,SESAR Joint Undertaking
-EMPL,DIR_GEN,"Directorate-General for Employment, Social Affairs and Inclusion"
-SG,SERV_DEP,Secretariat-General
-SJ,SERV_DEP,Legal service
-ESTAT,DIR_GEN,Eurostat
-FPI,SERV_DEP,Service for Foreign Policy Instruments
-COMP,DIR_GEN,Directorate-General for Competition
-AGRI,DIR_GEN,Directorate-General for Agriculture and Rural Development
-HR,DIR_GEN,Directorate-General for Human Resources and Security
-RTD,DIR_GEN,Directorate-General for Research and Innovation
-JRC,DIR_GEN,Joint Research Centre
-ECFIN,DIR_GEN,Directorate-General for Economic and Financial Affairs
-TAXUD,DIR_GEN,Directorate-General for Taxation and Customs Union
-BUDG,DIR_GEN,Directorate-General for Budget
-DGT,DIR_GEN,Directorate-General for Translation
-DIGIT,DIR_GEN,Directorate-General for Informatics
-SCIC,DIR_GEN,Directorate-General for Interpretation
-IAS,SERV_DEP,Internal Audit Service
-TRADE,DIR_GEN,Directorate-General for Trade
-OLAF,SERV_DEP,European Anti-Fraud Office
-ECHR,CB_INT,European Court of Human Rights
-EFTA,CB_INT,European Free Trade Association
-ESRB,CB_EU,European Systemic Risk Board
-EP_AFCO,EP_CMT,Committee on Constitutional Affairs
-EP_AFET,EP_CMT,Committee on Foreign Affairs
-EP_AGRI,EP_CMT,Committee on Agriculture and Rural Development
-EP_PECH,EP_CMT,Committee on Fisheries
-EP_BUDG,EP_CMT,Committee on Budgets
-EP_CONT,EP_CMT,Committee on Budgetary Control
-EP_CULT,EP_CMT,Committee on Culture and Education
-EP_DELCON,EP_CMT,Delegation to the Conciliation Committee
-EP_DEVE,EP_CMT,Committee on Development
-EP_DROI,EP_CMT,Subcommittee on Human Rights
-EP_ECON,EP_CMT,Committee on Economic and Monetary Affairs
-EP_EMPL,EP_CMT,Committee on Employment and Social Affairs
-EP_ENVI,EP_CMT,"Committee on the Environment, Public Health and Food Safety"
-EP_FEMM,EP_CMT,Committee on Women’s Rights and Gender Equality
-EP_ITRE,EP_CMT,"Committee on Industry, Research and Energy"
-EP_JURI,EP_CMT,Committee on Legal Affairs
-EP_LIBE,EP_CMT,"Committee on Civil Liberties, Justice and Home Affairs"
-EP_PETI,EP_CMT,Committee on Petitions
-EP_SEDE,EP_CMT,Subcommittee on Security and Defence
-EP_TRAN,EP_CMT,Committee on Transport and Tourism
-EP_INTA,EP_CMT,Committee on International Trade
-EP_IMCO,EP_CMT,Committee on the Internal Market and Consumer Protection
-ESCB,CB_EU,European System of Central Banks
-CMT_CONC,CB_EU,Conciliation Committee
-COUN_ASS,CB_EU,Association Council
-CMT_JOIN,CB_EU,Joint Committee
-COUN_COOP,CB_EU,Cooperation Council
-ACP_MIN,CB_INT,ACP Council of Ministers
-ACP_AMB,CB_INT,ACP Committee of Ambassadors
-CMT_COOP,CB_EU,Cooperation Committee
-COUN_JOIN,CB_EU,Joint Council
-EUMS,CB_EU,The Member States
-ACP,CB_INT,"African, Caribbean and Pacific Group of States"
-EFC,CB_EU,Economic and Financial Committee
-EP_CMT,CB_EU,EP Committee
-EP_REGI,EP_CMT,Committee on Regional Development
-GOVREP,CB_EU,Representatives of the Governments of the Member States
-COURT_NAT,CB_EU,National Courts
-EFTA_STC,CB_INT,Standing Committee of the EFTA States
-EFTA_SUC,CB_INT,EFTA Surveillance Authority
-EFTA_COURT,CB_INT,EFTA Court
-EURCOU_PRES,CB_EU,President of the European Council
-CFCA,AGENCY_DEC,European Fisheries Control Agency
-ACP-EU_JPA,CB_INT,ACP–EU Joint Parliamentary Assembly
-EBA,AGENCY_DEC,European Banking Authority
-EIOPA,AGENCY_DEC,European Insurance and Occupational Pensions Authority
-ESMA,AGENCY_DEC,European Securities and Markets Authority
-BIS,CB_INT,Bank for International Settlements
-EIB_GOV,CB_EU,Board of Governors of the European Investment Bank
-COU_EUR,CB_INT,Council of Europe
-EUROCONTROL,CB_INT,Eurocontrol
-ESA,CB_INT,European Space Agency
-NATO,CB_INT,North Atlantic Treaty Organization
-FAO,CB_INT,Food and Agriculture Organization
-WTO,CB_INT,World Trade Organization
-CYBER,CB_EU,European Cybercrime Centre
-CNECT,DIR_GEN,"Directorate-General for Communications Networks, Content and Technology"
-IRSG,CB_INT,International Rubber Study Group
-EURONEST,CB_INT,Euronest Parliamentary Assembly
-EFTA_SEC,CB_INT,EFTA Secretariat
-EFTA_MS,CB_INT,EFTA Member States
-NP,CB_EU,National parliaments
-EEAREA,CB_INT,European Economic Area
-EEAREA_MS,CB_INT,European Economic Area – Member States
-CMT_MIX,CB_EU,Joint Committee
-CMT_PARIT,CB_EU,Joint Committee
-UNHCR,CB_INT,Office of the United Nations High Commissioner for Refugees
-UNRWA,CB_INT,United Nations Relief and Works Agency for Palestine Refugees in the Near East
-UNICEF,CB_INT,United Nations Children’s Fund
-UNO,CB_INT,United Nations Organisation
-BERD,CB_INT,European Bank for Reconstruction and Development
-UNECE,CB_INT,United Nations Economic Commission for Europe
-ECOSOC,CB_INT,United Nations Economic and Social Council
-CMT_COOP_CUSTOM,CB_EU,Customs Cooperation Committee
-CMT_CONS,CB_EU,Consultative Committee
-ICRC,CB_INT,International Committee of the Red Cross
-ICES,CB_INT,International Council for the Exploration of the Sea
-IAEA,CB_INT,International Atomic Energy Agency
-IDA,CB_INT,International Development Association
-ICCS,CB_INT,International Commission on Civil Status
-ICAO,CB_INT,International Civil Aviation Organization
-ISOSUGAR,CB_INT,International Sugar Organization
-INTERPOL,CB_INT,Interpol
-ILO,CB_INT,International Labour Organization
-IBWM,CB_INT,International Bureau of Weights and Measures
-UNEP,CB_INT,United Nations Environment Programme
-WFP,CB_INT,World Food Programme
-OCHA,CB_INT,Office for the Coordination of Humanitarian Affairs
-UNESCO,CB_INT,Unesco
-REGIO,DIR_GEN,Directorate-General for Regional and Urban Policy
-EPOFF,CB_INT,European Patent Office
-EPORG,CB_INT,European Patent Organisation
-EMBL,CB_INT,European Molecular Biology Laboratory
-EAS,EU_INTERINSTSERV,European School of Administration
-OIB,SERV_DEP,Office for Infrastructure and Logistics in Brussels
-OIL,SERV_DEP,Office for Infrastructure and Logistics in Luxembourg
-PMO,SERV_DEP,Office for the Administration and Payment of Individual Entitlements
-EP_SG,CB_EU,Secretariat-General of the European Parliament
-EP_PRES,EP_DIR_GEN,Directorate-General for the Presidency
-EP_INTERNAL_POL,EP_DIR_GEN,Directorate-General for Internal Policies of the Union
-EP_EXTERN_POL,EP_DIR_GEN,Directorate-General for External Policies of the Union
-EP_COMMU,EP_DIR_GEN,Directorate-General for Communication
-EP_PERS,EP_DIR_GEN,Directorate-General for Personnel
-EP_INFRA_LOGIS,EP_DIR_GEN,Directorate-General for Infrastructure and Logistics
-EP_TRANSL,EP_DIR_GEN,Directorate-General for Translation
-EP_FINANCE,EP_DIR_GEN,Directorate-General for Finance
-EP_INNOV,EP_DIR_GEN,Directorate-General for Innovation and Technological Support
-EP_GROUP_SD,EP_GROUP,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
-EP_GROUP_ECR,EP_GROUP,European Conservatives and Reformists Group
-EP_GROUP_GREEN_EFA,EP_GROUP,Group of the Greens/European Free Alliance
-EP_GROUP_GUE_NGL,EP_GROUP,Confederal Group of the European United Left – Nordic Green Left
-ESM,CB_INT,European Stability Mechanism
-DEL_AFG,DEL,Delegation to Afghanistan
-DEL_ALB,DEL,Delegation to Albania
-DEL_DZA,DEL,Delegation to Algeria
-DEL_ARM,DEL,Delegation to Armenia
-DEL_AGO,DEL,Delegation to Angola
-DEL_ARG,DEL,Delegation to Argentina
-DEL_AUS,DEL,Delegation to Australia
-DEL_NZL,DEL,Delegation to New Zealand
-DEL_AZE,DEL,Delegation to Azerbaijan
-DEL_BIH,DEL,Delegation to Bosnia and Herzegovina
-DEL_BGD,DEL,Delegation to Bangladesh
-DEL_BFA,DEL,Delegation to Burkina Faso
-DEL_BOL,DEL,Delegation to Bolivia
-DEL_BRA,DEL,Delegation to Brazil
-DEL_BLR,DEL,Delegation to Belarus
-DEL_CAN,DEL,Delegation to Canada
-DEL_COD,DEL,Delegation to the Democratic Republic of the Congo
-DEL_COG,DEL,Delegation to Congo
-DEL_CAF,DEL,Delegation to Central African Republic
-DEL_CHE_LIE,DEL,Delegation to Switzerland and to Liechtenstein
-DEL_CIV,DEL,Delegation to Ivory Coast
-DEL_CHL,DEL,Delegation to Chile
-DEL_CMR,DEL,Delegation to Cameroon
-DEL_CHN,DEL,Delegation to China
-DEL_COL,DEL,Delegation to Colombia
-DEL_ECU,DEL,Delegation to Ecuador
-DEL_SRB,DEL,Delegation to Serbia
-DEL_MNE,DEL,Delegation to Montenegro
-DEL_CPV,DEL,Delegation to Cabo Verde
-DEL_DOM,DEL,Delegation to the Dominican Republic
-DEL_CUB,DEL,Delegation to Cuba
-DEL_EGY,DEL,Delegation to Egypt
-DEL_ERI,DEL,Delegation to Eritrea
-DEL_ETH,DEL,Delegation to Ethiopia
-DEL_PACIFIC,DEL,Delegation for the Pacific
-DEL_GEO,DEL,Delegation to Georgia
-DEL_GHA,DEL,Delegation to Ghana
-DEL_GTM,DEL,Delegation to Guatemala
-DEL_TTO,DEL,Delegation to Trinidad and Tobago
-DEL_HKG,DEL,Delegation to Hong Kong and Macao
-DEL_HTI,DEL,Delegation to Haiti
-DEL_TLS,DEL,Delegation to Timor-Leste
-DEL_ISR,DEL,Delegation to Israel
-DEL_IND_BTN,DEL,Delegation to India and to Bhutan
-DEL_NOR,DEL,Delegation to Norway
-DEL_ISL,DEL,Delegation to Iceland
-DEL_JAM_BLZ_BHS,DEL,"Delegation to Jamaica, Belize, The Bahamas, Turks and Caicos Islands and Cayman Islands"
-DEL_JOR,DEL,Delegation to Jordan
-DEL_JPN,DEL,Delegation to Japan
-DEL_KEN,DEL,Delegation to Kenya
-DEL_KHM,DEL,Delegation to Cambodia
-DEL_KOR,DEL,Delegation to South Korea
-DEL_KAZ,DEL,Delegation to Kazakhstan
-DEL_KGZ,DEL,Delegation to Kyrgyzstan
-DEL_TJK,DEL,Delegation to Tajikistan
-DEL_LAO,DEL,Delegation to Laos
-DEL_LBN,DEL,Delegation to Lebanon
-DEL_LKA_MDV,DEL,Delegation to Sri Lanka and the Maldives
-DEL_LSO,DEL,Delegation to Lesotho
-DEL_MAR,DEL,Delegation to Morocco
-DEL_MDA,DEL,Delegation to Moldova
-DEL_MLI,DEL,Delegation to Mali
-DEL_MNG,DEL,Delegation to Mongolia
-DEL_MRT,DEL,Delegation in Mauritania
-DEL_MWI,DEL,Delegation to Malawi
-DEL_MEX,DEL,Delegation to Mexico
-DEL_MYS,DEL,Delegation to Malaysia
-DEL_MOZ,DEL,Delegation to Mozambique
-DEL_NAM,DEL,Delegation to Namibia
-DEL_NER,DEL,Delegation to Niger
-DEL_NGA_ECOWAS,DEL,Delegation to Nigeria and ECOWAS
-DEL_NPL,DEL,Delegation to Nepal
-DEL_PER,DEL,Delegation to Peru
-DEL_PHL,DEL,Delegation to the Philippines
-DEL_PAK,DEL,Delegation to Pakistan
-DEL_RUS,DEL,Delegation to Russia
-DEL_RWA,DEL,Delegation to Rwanda
-DEL_SGP,DEL,Delegation to Singapore
-DEL_SLE,DEL,Delegation to Sierra Leone
-DEL_SEN,DEL,Delegation to Senegal
-DEL_SYR,DEL,Delegation to Syria
-DEL_TCD,DEL,Delegation to Chad
-DEL_TGO,DEL,Delegation to Togo
-DEL_THA,DEL,Delegation to Thailand
-DEL_MMR,DEL,Delegation to Myanmar / Burma
-DEL_TUN,DEL,Delegation to Tunisia
-DEL_TUR,DEL,Delegation to Turkey
-DEL_TZA,DEL,Delegation to Tanzania
-DEL_UKR,DEL,Delegation to Ukraine
-DEL_UGA,DEL,Delegation to Uganda
-DEL_USA,DEL,Delegation to the United States of America
-DEL_UNO_NY,DEL,Delegation to the United Nations in New York
-DEL_URY,DEL,Delegation to Uruguay
-DEL_PRY,DEL,Delegation to Paraguay
-DEL_UZB,DEL,Delegation to Uzbekistan
-DEL_VEN,DEL,Delegation to Venezuela
-DEL_VNM,DEL,Delegation to Vietnam
-DEL_ORG_INT,DEL,Delegation to the International Organisations in Vienna
-DEL_ZAF,DEL,Delegation to South Africa
-DEL_ZWE,DEL,Delegation to Zimbabwe
-DEL_1A0,DEL,Office in Kosovo
-DEL_TWN,DEL,European Economic and Trade Office in Taiwan
-DEL_AFRICANUNION,DEL,Delegation to the African Union
-DEL_BEN,DEL,Delegation to Benin
-DEL_BDI,DEL,Delegation to Burundi
-DEL_COU_EUR,DEL,Delegation to the Council of Europe
-DEL_GMB,DEL,Delegation to The Gambia
-DEL_UNO_ORG_INT,DEL,Delegation to the UN and other international organisations in Geneva
-DEL_ORG_WTO,DEL,Permanent Mission to the World Trade Organisation
-DEL_GNB,DEL,Delegation to Guinea-Bissau
-DEL_GIN,DEL,Delegation to Guinea
-DEL_OECD_UNESCO,DEL,Delegation to the OECD and the UNESCO in Paris
-DEL_LBR,DEL,Delegation to Liberia
-DEL_PNG,DEL,Delegation to Papua New Guinea
-DEL_SDN,DEL,Delegation to Sudan
-DEL_YEM,DEL,Delegation to Yemen
-CONSIL_SG,CB_EU,General Secretariat of the Council
-ETHI,CB_EU,European Group on Ethics in Science and New Technologies
-COST,CB_EU,European cooperation in science and technology
-ESDC,CB_EU,European Security and Defence College
-EUI,CB_EU,European University Institute
-EIPA,CB_EU,European Institute of Public Administration
-OECD,CB_INT,Organisation for Economic Co-operation and Development
-WOAH,CB_INT,World Organisation for Animal Health
-WB,CB_INT,World Bank
-REPRES_AUT,REPRES,Representation in Austria
-REPRES_BEL,REPRES,Representation in Belgium
-REPRES_BGR,REPRES,Representation in Bulgaria
-REPRES_CYP,REPRES,Representation in Cyprus
-REPRES_DEU_BER,REPRES,Representation in Germany – Berlin
-REPRES_DEU_MUC,REPRES,Representation in Germany – Munich
-REPRES_DEU_BON,REPRES,Representation in Germany – Bonn
-REPRES_DAN,REPRES,Representation in Denmark
-REPRES_EST,REPRES,Representation in Estonia
-REPRES_SPA_MAD,REPRES,Representation in Spain – Madrid
-REPRES_SPA_BCN,REPRES,Representation in Spain – Barcelona
-REPRES_FIN,REPRES,Representation in Finland
-REPRES_FRA_PAR,REPRES,Representation in France – Paris
-REPRES_FRA_MRS,REPRES,Representation in France – Marseille
-REPRES_GRC,REPRES,Representation in Greece
-REPRES_HUN,REPRES,Representation in Hungary
-REPRES_IRL,REPRES,Representation in Ireland
-REPRES_ITA_ROM,REPRES,Representation in Italy – Rome
-REPRES_ITA_MIL,REPRES,Representation in Italy – Milan
-REPRES_LVA,REPRES,Representation in Latvia
-REPRES_LIT,REPRES,Representation in Lithuania
-REPRES_LUX,REPRES,Representation in Luxembourg
-REPRES_MLT,REPRES,Representation in Malta
-REPRES_NLD,REPRES,Representation in the Netherlands
-REPRES_POL_WAW,REPRES,Representation in Poland – Warsaw
-REPRES_POL_WRO,REPRES,Representation in Poland – Wrocław
-REPRES_PRT,REPRES,Representation in Portugal
-REPRES_ROU,REPRES,Representation in Romania
-REPRES_SVK,REPRES,Representation in Slovakia
-REPRES_SVN,REPRES,Representation in Slovenia
-REPRES_SWE,REPRES,Representation in Sweden
-CMT_EMPL,CB_EU,Employment Committee
-OTIF,CB_INT,Intergovernmental Organisation for International Carriage by Rail
-AECL,CB_OTHER,Atomic Energy of Canada Limited
-CMT_TRADE_EU_ROK,CB_EU,EU–Korea Trade Committee
-LISA,AGENCY_DEC,"European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice"
-CCSS,CB_EU,Administrative Commission for the Coordination of Social Security Systems
-CMT_MIX_EEAREA,CMT_MIX,EEA Joint Committee
-CMT_MIX_EU_CHE,CMT_MIX,EU–Switzerland Joint Committee
-CMT_MIX_EU_MEX,CMT_MIX,EU–Mexico Joint Committee
-REPRES_HRV,REPRES,Representation in Croatia
-CMT_MIX_EU_ICAO,CMT_MIX,EU–ICAO Joint Committee
-CMT_AMB_EU_ACP,CB_EU,ACP–EU Committee of Ambassadors
-COUN_AMB_EU_ACP,CB_EU,ACP–EU Council of Ministers
-CCNR,CB_INT,Central Commission for the Navigation of the Rhine
-EPO_BA,CB_INT,Boards of Appeal of the European Patent Office
-ENER_COMNTY,CB_INT,Energy Community
-EASME,AGENCY_EXEC,Executive Agency for Small and Medium-sized Enterprises
-INEA,AGENCY_EXEC,Innovation and Networks Executive Agency
-CMT_PSC,CB_EU,Political and Security Committee
-CRS,CB_OTHER,Catholic Relief Service
-MERCOSUR,CB_INT,Mercosur
-ANDEAN,CB_INT,Andean Community
-CMT_INLAND_TRANSP_CHE,CB_EU,EC–Switzerland Inland Transport Committee
-CMT_ADVIS_MONOPOL,CB_EU,Advisory Committee on Restrictive Practices and Dominant Positions
-CMT_ADVIS_MERGER,CB_EU,Advisory Committee on Concentrations
-COUN_ASS_EU_MAR,COUN_ASS,EU–Morocco Association Council
-CAEU,CB_INT,Council of Arab Economic Unity
-EUROGRO,CB_EU,Eurogroup
-CARIFORUM,CB_INT,Caribbean Forum
-CARICOM,CB_INT,Caribbean Community
-EP_GROUP,CB_EU,European Parliament’s political groups
-GULF_COOP_COUN,CB_INT,Gulf Cooperation Council
-EUROSYSTEM,CB_EU,Eurosystem
-CERN,CB_INT,CERN
-COUN_JOIN_EU_CARIFORUM,CB_EU,CARIFORUM–EU Joint Council
-EP_RESEARCH,EP_DIR_GEN,Directorate-General for Parliamentary Research Services
-EP_LS,CB_EU,Legal Service
-EP_SAFE,EP_DIR_GEN,Directorate-General for Security and Safety
-NEAR,DIR_GEN,Directorate-General for Neighbourhood and Enlargement Negotiations
-GROW,DIR_GEN,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
-HOME,DIR_GEN,Directorate-General for Migration and Home Affairs
-JUST,DIR_GEN,Directorate-General for Justice and Consumers
-FISMA,DIR_GEN,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union"
-SANTE,DIR_GEN,Directorate-General for Health and Food Safety
-DEL_SLV,DEL,Delegation to El Salvador
-DEL_HND,DEL,Delegation to Honduras
-DEL_IRQ,DEL,Delegation to Iraq
-DEL_ARE,DEL,Delegation to United Arab Emirates
-EURSCHOOL,CB_EU,European schools
-G2,CB_INT,Group of 2
-G3,CB_INT,Group of 3 Europe
-G3_TER,CB_INT,Group of 3 with China
-G3_QUATER,CB_INT,Group of 3 with Japan
-G4,CB_EU,Group of 4
-G5_BIS,CB_INT,Group of 5 emerging economies
-G6,CB_EU,Group of 6 EU
-G7,CB_INT,Group of 7
-G7_5,CB_INT,Group of 7+5
-G8_BIS,CB_INT,Group of 8 with the EU
-G9,CB_INT,Group of 9
-G10,CB_INT,Group of 10
-G11,CB_INT,Group of 11
-G12,CB_INT,Group of 12
-G14,CB_INT,Group of 14
-G15,CB_INT,Group of 15
-G20,CB_INT,Group of 20
-G24,CB_INT,Group of 24
-G33_BIS,CB_INT,Group of 33 developing countries
-G77,CB_INT,Group of 77
-DATPRO,CB_OTHER,Provisional data
-SRB,AGENCY_DEC,Single Resolution Board
-EUSR,CB_EU,European Union Special Representative
-V4,CB_INT,Visegrad Group
-BRICS,CB_INT,BRICS countries
-UNASUR,CB_INT,Union of South American Nations
-CMT_STAFF,CB_EU,Staff Committee
-COM_CAB,CB_EU,Cabinets of Commissioners
-CONSIL_AGRIFISH,CB_EU,Agriculture and Fisheries Council
-CONSIL_COMPET,CB_EU,Competitiveness Council
-CONSIL_ECOFIN,CB_EU,Economic and Financial Affairs Council
-CONSIL_EYCS,CB_EU,"Education, Youth, Culture and Sport Council"
-CONSIL_EPSCO,CB_EU,"Employment, Social Policy, Health and Consumer Affairs Council"
-CONSIL_ENV,CB_EU,Environment Council
-CONSIL_FAC,CB_EU,Foreign Affairs Council
-CONSIL_GAC,CB_EU,General Affairs Council
-CONSIL_JHA,CB_EU,Justice and Home Affairs Council
-CONSIL_TTE,CB_EU,"Transport, Telecommunications and Energy Council"
-COREPER,CB_EU,Permanent Representatives Committee
-COREPER_I,CB_EU,Committee of Permanent Representatives – Part I
-COREPER_II,CB_EU,Committee of Permanent Representatives – Part II
-EPPO,AGENCY_DEC,European Public Prosecutor’s Office
-RSCAS,CB_EU,Robert Schuman Centre for Advanced Studies
-WCDC,CB_INT,Working Community of the Danube Countries
-RECCEE,CB_INT,Regional Environmental Center for Central and Eastern Europe
-IRENA,CB_INT,International Renewable Energy Agency
-RESPA,CB_INT,Regional School for Public Administration
-IACA,CB_INT,International Anti-Corruption Academy
-FCH,EU_JU,Fuel Cells and Hydrogen 2 Joint Undertaking
-EIBI,CB_EU,European Investment Bank Institute
-EP_GROUP_NI,EP_GROUP,Non-attached Members
-EFSM,CB_EU,European Financial Stabilisation Mechanism
-CHAFEA,AGENCY_EXEC,"Consumers, Health, Agriculture and Food Executive Agency"
-SKY,EU_JU,Clean Sky 2 Joint Undertaking
-IMI,EU_JU,IMI 2 Joint Undertaking
-ECSEL,EU_JU,ECSEL Joint Undertaking
-EUMS_EURO19,CB_EU,"The Member States having adopted the euro: Belgium, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Austria, Portugal, Slovenia, Slovakia, Finland"
-BANK_EURO19,CB_EU,"National banks within the Eurosystem: Nationale Bank van België/Banque Nationale de Belgique, Deutsche Bundesbank, Eesti Pank, Banc Ceannais na hÉireann/Central Bank of Ireland, Τράπεζα της Ελλάδος, Banco de España, Banque de France, Banca d’Italia, Κεντρική Τράπεζα της Κύπρου, Latvijas Banka, Lietuvos Bankas, Banque centrale du Luxembourg, Bank Centrali ta’ Malta/Central Bank of Malta, De Nederlandsche Bank, Oesterreichische Nationalbank, Banco de Portugal, Banka Slovenije, Národná banka Slovenska, Suomen Pankki/Finlands Bank"
-BBI,EU_JU,Bio-based Industries Joint Undertaking
-S2R,EU_JU,Shift2Rail Joint Undertaking
-EURY,CB_EU,Eurydice
-G4_BIS,CB_INT,G4 nations
-TRI_WMR,CB_INT,Weimar Triangle
-TRI_SVB,CB_INT,Slavkov Triangle
-ANZUS,CB_INT,ANZUS Treaty
-APEC,CB_INT,Asia-Pacific Economic Cooperation
-PLAN_CMB,CB_INT,Colombo Plan
-CMNW,CB_INT,Commonwealth
-CIS,CB_INT,Commonwealth of Independent States
-ICC,CB_INT,International Criminal Court
-IOM,CB_INT,International Organization for Migration
-IPU,CB_INT,Inter-Parliamentary Union
-EAPC,CB_INT,Euro-Atlantic Partnership Council
-NAFO,CB_INT,Northwest Atlantic Fisheries Organization
-DAC,CB_INT,Development Assistance Committee
-IEA,CB_INT,International Energy Agency
-NEA,CB_INT,Nuclear Energy Agency
-OPEC,CB_INT,Organization of the Petroleum Exporting Countries
-OPCW,CB_INT,Organization for the Prohibition of Chemical Weapons
-OSCE,CB_INT,Organization for Security and Cooperation in Europe
-ARRANG_WSS,CB_INT,Wassenaar Arrangement
-WCO,CB_INT,World Customs Organization
-DSB,CB_INT,Dispute Settlement Body
-ITF,CB_INT,International Transport Forum
-ASEAN,CB_INT,Association of Southeast Asian Nations
-OAS,CB_INT,Organization of American States
-AFDB,CB_INT,African Development Bank
-UNION_AFR,CB_INT,African Union
-ACJHR,CB_INT,African Court of Justice and Human Rights
-AMU,CB_INT,Arab Maghreb Union
-CAEMC,CB_INT,Central African Economic and Monetary Community
-CMESA,CB_INT,Common Market for Eastern and Southern Africa
-CSSS,CB_INT,Community of Sahel-Saharan States
-EACOM,CB_INT,East African Community
-ECCAS,CB_INT,Economic Community of Central African States
-ECWAS,CB_INT,Economic Community of West African States
-SACU,CB_INT,Southern African Customs Union
-SADC,CB_INT,Southern African Development Community
-WAEMU,CB_INT,West African Economic and Monetary Union
-ACS,CB_INT,Association of Caribbean States
-CDB,CB_INT,Caribbean Development Bank
-FTAA,CB_INT,Free Trade Area of the Americas
-NAFTA,CB_INT,North American Free Trade Agreement
-IACHR,CB_INT,Inter-American Court of Human Rights
-LEAGUE_ARAB,CB_INT,Arab League
-ACM,CB_INT,Arab Common Market
-OAPEC,CB_INT,Organization of Arab Petroleum Exporting Countries
-PLO,CB_INT,Palestine Liberation Organisation
-ASPAC,CB_INT,Asian and Pacific Council
-APDC,CB_INT,Asian and Pacific Development Centre
-ADB,CB_INT,Asian Development Bank
-APPU,CB_INT,Asian-Pacific Parliamentarians’ Union
-APO,CB_INT,Asian Productivity Organisation
-BENELUX,CB_EU,Benelux Union
-PIF,CB_INT,Pacific Islands Forum
-SPC,CB_INT,Pacific Community
-SAARC,CB_INT,South Asian Association for Regional Cooperation
-LAIA,CB_INT,Latin American Integration Association
-ANDEAN_PARL,CB_INT,Andean Parliament
-CAIS,CB_INT,Central American Integration System
-CACM,CB_INT,Central American Common Market
-CABEI,CB_INT,Central American Bank for Economic Integration
-CAP,CB_INT,Central American Parliament
-GROUP_CNTDR,CB_INT,Contadora Group
-IDB,CB_INT,Inter-American Development Bank
-IILAC,CB_INT,Institute for the Integration of Latin America and the Caribbean
-LACES,CB_INT,Latin American and the Caribbean Economic System
-LA_PARL,CB_INT,Latin American Parliament
-GROUP_RIO,CB_INT,Rio Group
-SCO,CB_INT,Shanghai Cooperation Organisation
-COU_ARCTIC,CB_INT,Arctic Council
-EEU,CB_INT,Eurasian Economic Union
-CORDAID,CB_INT,Cordaid
-P5,CB_INT,Five Permanent Members
-L69,CB_INT,L69 Group
-UFC,CB_INT,Uniting for Consensus
-CSTO,CB_INT,Collective Security Treaty Organization
-UNSC,CB_INT,Security Council
-CELAB,CB_INT,Center for Ethics and Law in Biomedicine
-ETSC,CB_INT,European Transport Safety Council
-IFRC,CB_INT,International Federation of Red Cross and Red Crescent Societies
-COU_EUR_EDQM,CB_INT,European Directorate for the Quality of Medicines
-COU_EUR_ECARI,CB_INT,European Commission against Racism and Intolerance
-COU_EUR_DB,CB_INT,Council of Europe Development Bank
-COU_EUR_PA,CB_INT,Parliamentary Assembly of the Council of Europe
-COU_EUR_CM,CB_INT,Committee of Ministers of the Council of Europe
-NSG,CB_INT,Nuclear Suppliers Group
-ICCROM,CB_INT,International Centre for the Study of the Preservation and Restoration of Cultural Property
-ICMPD,CB_INT,International Centre for Migration Policy Development
-ITLOS,CB_INT,International Tribunal for the Law of the Sea
-IWC,CB_INT,International Whaling Commission
-PCA,CB_INT,Permanent Court of Arbitration
-COR_CIVEX,COR_COM,"Commission for Citizenship, Governance, Institutional and External Affairs"
-COR_COTER,COR_COM,Commission for Territorial Cohesion Policy and EU Budget
-COR_ECON,COR_COM,Commission for Economic Policy
-COR_ENVE,COR_COM,"Commission for the Environment, Climate Change and Energy"
-COR_NAT,COR_COM,Commission for Natural Resources
-COR_SEDEC,COR_COM,"Commission for Social Policy, Education, Employment, Research and Culture"
-COR_GROUP_ALDE,COR_GROUP,Alliance of Liberals and Democrats for Europe
-COR_GROUP_EA,COR_GROUP,European Alliance
-COR_GROUP_ECR,COR_GROUP,European Conservatives and Reformists Group
-COR_GROUP_EPP,COR_GROUP,European People’s Party
-COR_GROUP_NI,COR_GROUP,Non-attached (NI)
-COR_GROUP_PES,COR_GROUP,Party of European Socialists
-MPC,CB_EU,Migration Policy Centre
-CBRN_COE,CB_EU,CBRN Centres of Excellence
-OAMI,AGENCY_DEC,European Union Intellectual Property Office
-WIPO,CB_INT,World Intellectual Property Organisation
-BOIP,CB_INT,Benelux Office for Intellectual Property
-NGO,CB_INT,Non-governmental organisation
-AI,CB_INT,Amnesty International
-CEMR,CB_INT,Council of European Municipalities and Regions
-IATA,CB_INT,International Air Transport Association
-IFLA,CB_INT,International Federation of Library Associations and Institutions
-ISSA,CB_INT,International Social Security Association
-ITUC,CB_INT,International Trade Union Confederation
-ISO,CB_INT,ISO
-UNSAG,CB_INT,United Nations specialized agency
-UNREGICOM,CB_INT,United Nations regional commission
-UNTECCOM,CB_INT,United Nations technical commission
-UNSB,CB_INT,United Nations subsidiary body
-UNCOM,CB_INT,United Nations commission
-UNECA,CB_INT,United Nations Economic Commission for Africa
-UNECLAC,CB_INT,United Nations Economic Commission for Latin America and the Caribbean
-UNESCAP,CB_INT,United Nations Economic and Social Commission for Asia and the Pacific
-UNESCWA,CB_INT,United Nations Economic and Social Commission for Western Asia
-UNCSOCD,CB_INT,United Nations Commission for Social Development
-UNCCPCJ,CB_INT,United Nations Commission on Crime Prevention and Criminal Justice
-UNHRCOU,CB_INT,United Nations Human Rights Council
-UNCHRC,CB_INT,United Nations Human Rights Committee
-UNCND,CB_INT,United Nations Commission on Narcotic Drugs
-UNCOMPD,CB_INT,United Nations Commission on Population and Development
-UNCSTD,CB_INT,United Nations Commission on Science and Technology for Development
-UNHLPF,CB_INT,United Nations High-level Political Forum on Sustainable Development
-UNCSW,CB_INT,United Nations Commission on the Status of Women
-UNFF,CB_INT,United Nations Forum on Forests
-UNSCOM,CB_INT,United Nations Statistical Commission
-ICJ,CB_INT,International Court of Justice
-UNGA,CB_INT,General Assembly of the United Nations
-UNSEC,CB_INT,United Nations Secretariat
-UNTC,CB_INT,United Nations Trusteeship Council
-OHCHR,CB_INT,Office of the High Commissioner for Human Rights
-UNCTAD,CB_INT,United Nations Conference on Trade and Development
-EESC_CCMI,CB_EU,Consultative Commission on Industrial Change
-UNDP,CB_INT,United Nations Development Programme
-IPCC,CB_INT,Intergovernmental Panel on Climate Change
-UNODC,CB_INT,United Nations Office on Drugs and Crime
-UNFPA,CB_INT,United Nations Population Fund
-UNCRD,CB_INT,United Nations Centre for Regional Development
-UNIDIR,CB_INT,United Nations Institute for Disarmament Research
-UNITAR,CB_INT,United Nations Institute for Training and Research
-UNWOMEN,CB_INT,UN Women
-UNICRI,CB_INT,United Nations Interregional Crime and Justice Research Institute
-UNRISD,CB_INT,United Nations Research Institute for Social Development
-UNAIDS,CB_INT,UNAIDS
-ICGEB,CB_INT,International Centre for Genetic Engineering and Biotechnology
-IFAD,CB_INT,International Fund for Agricultural Development
-ILC,CB_INT,International Labour Conference
-ILOFF,CB_INT,International Labour Office
-IMO,CB_INT,International Maritime Organisation
-IMF,CB_INT,International Monetary Fund
-INCB,CB_INT,International Narcotics Control Board
-ITU,CB_INT,International Telecommunication Union
-IBE,CB_INT,International Bureau of Education
-IIEP,CB_INT,International Institute for Educational Planning
-UNISIST,CB_INT,World Scientific and Technical Information System
-UNIDO,CB_INT,United Nations Industrial Development Organization
-UPU,CB_INT,Universal Postal Union
-IBRD,CB_INT,International Bank for Reconstruction and Development
-ICSID,CB_INT,International Centre for Settlement of Investment Disputes
-IFC,CB_INT,International Finance Corporation
-MIGA,CB_INT,Multilateral Investment Guarantee Agency
-WMO,CB_INT,World Meteorological Organization
-UNWTO,CB_INT,World Tourism Organization
-ITC,CB_INT,International Trade Centre
-BLEU,CB_INT,Belgo-Luxembourg Economic Union
-BEUC,CB_INT,European Consumer Organisation
-EUROCORPS,CB_INT,Eurocorps
-CBSS,CB_INT,Council of the Baltic Sea States
-EFI,CB_INT,European Forest Institute
-NORDENCOU,CB_INT,Nordic Council
-EBUNION,CB_INT,European Barge Union
-EBU,CB_INT,European Broadcasting Union
-BSSE,CB_INT,BusinessEurope
-CEFTA,CB_INT,Central European Free Trade Agreement
-EUTELSAT,CB_INT,Eutelsat
-ETUI,CB_EU,European Trade Union Institute
-ETUC,CB_INT,European Trade Union Confederation
-CEN,CB_INT,European Committee for Standardization
-CENELEC,CB_INT,European Committee for Electrotechnical Standardisation
-ETSI,CB_INT,European Telecommunications Standards Institute
-ELEC,CB_INT,European League for Economic Cooperation
-ECAC,CB_INT,European Civil Aviation Conference
-CEEP,CB_INT,European Centre of Employers and Enterprises providing Public Services
-EAES,CB_EU,European Atomic Energy Society
-EANPC,CB_INT,European Association of National Productivity Centres
-EADI,CB_INT,European Association of Development Research and Training Institutes
-ECPRD,CB_INT,European Centre for Parliamentary Research and Documentation
-CEPT,CB_INT,European Conference of Postal and Telecommunications Administrations
-COU_EUR_CLRAE,CB_INT,Congress of Local and Regional Authorities of Europe
-COU_EUR_CDCPP,CB_INT,"Steering Committee for Culture, Heritage and Landscape"
-COU_EUR_CDPPE,CB_INT,Steering Committee for Education Policy and Practice
-COU_EUR_EYF,CB_INT,European Youth Foundation
-EESC_NAT,CB_EU,"Section for Agriculture, Rural Development and the Environment"
-EESC_ECO,CB_EU,Section for Economic and Monetary Union and Economic and Social Cohesion
-EESC_SOC,CB_EU,"Section for Employment, Social Affairs and Citizenship"
-EESC_REX,CB_EU,Section for External Relations
-EESC_INT,CB_EU,"Section for the Single Market, Production and Consumption"
-EESC_TEN,CB_EU,"Section for Transport, Energy, Infrastructure and the Information Society"
-EFB,CB_EU,European Fiscal Board
-CEPOL,AGENCY_DEC,European Union Agency for Law Enforcement Training
-ECHO,DIR_GEN,Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)
-ERA,AGENCY_DEC,European Union Agency for Railways
-RSB,CB_EU,Regulatory Scrutiny Board
-EEAS_EUMS,CB_EU,European Union military staff
-EEAS_DEL,CB_EU,EU Delegations and Offices
-CC,CB_INT,Creative Commons
-ODC,CB_INT,Open Data Commons
-FSF,CB_INT,Free Software Foundation
-FVO,DIR,Directorate for Health and Food Audits and Analysis
-EVHAC,CB_EU,European Voluntary Humanitarian Aid Corps
-EURASHE,CB_INT,European Association of Institutions in Higher Education
-FRONTEX,AGENCY_DEC,Frontex
-LRC,SERV_DEP,Library and e-Resources Centre
-EPC,CB_EU,Economic Policy Committee
-ACSH,CB_EU,Advisory Committee on Safety and Health at Work
-EAC,DIR_GEN,"Directorate-General for Education, Youth, Sport and Culture"
-AEPPEPF,CB_EU,Authority for European Political Parties and European Political Foundations
-EESC_SG,CB_EU,Secretariat-General of the European Economic and Social Committee
-EP_GROUP_SEC,EP_GROUP,Political groups’ secretariats
-REPRES_DEU,REPRES,Representation in Germany
-REPRES_SPA,REPRES,Representation in Spain
-REPRES_FRA,REPRES,Representation in France
-REPRES_ITA,REPRES,Representation in Italy
-REPRES_POL,REPRES,Representation in Poland
-COR,EU_BODY,European Committee of the Regions
-REPRES_PERM,CB_EU,Permanent representations
-DEL_SSD,DEL,Delegation to South Sudan
-DEL_LBY,DEL,Delegation to Libya
-DEL_CRI,DEL,Delegation to Costa Rica
-COM_COLL,CB_EU,College of Commissioners
-EUROPOL,AGENCY_DEC,Europol
-EEAS_BA,CB_EU,Directorate-General for Budget and Administration
-EEAS_POL,CB_EU,Service of Deputy Secretary General for political affairs
-EEAS_ECO,CB_EU,Service of Deputy Secretary General for economic and global issues
-EEAS_CSDP,CB_EU,Service of Deputy Secretary General CSDP and crisis response
-ESGAB,CB_EU,European Statistical Governance Advisory Board
-WADA,CB_INT,World Anti-Doping Agency
-COR_SG,CB_EU,Secretariat-General of the European Committee of the Regions
-COR_GROUP,CB_EU,Political groups of the European Committee of the Regions
-COR_DIR_MEMBERS_PLENARIES,COR_DIR,Directorate for Members and Plenaries
-COR_DIR_LEGISLATIVE_1,COR_DIR,Directorate for Legislative Work 1
-COR_DIR_LEGISLATIVE_2,COR_DIR,Directorate for Legislative Work 2
-COR_DIR_COMMUNICATION,COR_DIR,Directorate for Communication
-COR_DIR_HR_FINANCE,COR_DIR,Directorate for Human Resources and Finance
-COR_DIR_LOGISTICS,COR_DIR,Directorate for Logistics
-COR_DIR_TRANSLATION,COR_DIR,Directorate for Translation
-CERT,EU_INTERINSTSERV,"Computer Emergency Response Team for the EU institutions, bodies and agencies"
-COUN_ASS_EU_DZA,COUN_ASS,EU–Algeria Association Council
-COUN_ASS_EU_CENTR_AMER,COUN_ASS,EU–Central America Association Council
-COUN_ASS_EU_CHL,COUN_ASS,EU–Chile Association Council
-COUN_ASS_EU_EGY,COUN_ASS,EU–Egypt Association Council
-COUN_ASS_EU_GEO,COUN_ASS,EU–Georgia Association Council
-COUN_ASS_EU_ISR,COUN_ASS,EU–Israel Association Council
-COUN_ASS_EU_JOR,COUN_ASS,EU–Jordan Association Council
-COUN_ASS_EU_LBN,COUN_ASS,EU–Lebanon Association Council
-COUN_ASS_EU_MDA,COUN_ASS,EU–Moldova Association Council
-COUN_ASS_EU_TUN,COUN_ASS,EU–Tunisia Association Council
-COUN_ASS_EU_TUR,COUN_ASS,EU–Turkey Association Council
-COUN_ASS_EU_UKR,COUN_ASS,EU–Ukraine Association Council
-COUN_COOP_EU_ARM,COUN_COOP,EU–Armenia Cooperation Council
-COUN_COOP_EU_AZE,COUN_COOP,EU–Azerbaijan Cooperation Council
-COUN_COOP_EU_KAZ,COUN_COOP,EU–Kazakhstan Cooperation Council
-COUN_COOP_EU_KGZ,COUN_COOP,EU–Kyrgyzstan Cooperation Council
-COUN_JOIN_EU_MEX,COUN_COOP,EU–Mexico Joint Council
-COUN_COOP_EU_ZAF,COUN_COOP,EU–South Africa Cooperation Council
-COUN_COOP_EU_SYR,COUN_COOP,EU–Syria Cooperation Council
-COUN_COOP_EU_TJK,COUN_COOP,EU–Tajikistan Cooperation Council
-COUN_COOP_EU_UZB,COUN_COOP,EU–Uzbekistan Cooperation Council
-COUN_STAB_ASS,CB_EU,Stabilisation and Association Council
-COUN_STAB_ASS_EU_ALB,COUN_STAB_ASS,EU–Albania Stabilisation and Association Council
-COUN_STAB_ASS_EU_BIH,COUN_STAB_ASS,EU–Bosnia and Herzegovina Stabilisation and Association Council
-COUN_STAB_ASS_EU_KOSOVO,COUN_STAB_ASS,EU–Kosovo Stabilisation and Association Council
-COUN_STAB_ASS_EU_MNE,COUN_STAB_ASS,EU–Montenegro Stabilisation and Association Council
-COUN_STAB_ASS_EU_SRB,COUN_STAB_ASS,EU–Serbia Stabilisation and Association Council
-GOVREP_BEL,CB_EU,Representatives of the Governments of the Kingdom of Belgium
-GOVREP_BGR,CB_EU,Representatives of the Government of the Republic of Bulgaria
-GOVREP_CZE,CB_EU,Representatives of the Government of the Czech Republic
-GOVREP_DNK,CB_EU,Representatives of the Government of the Kingdom of Denmark
-GOVREP_DEU,CB_EU,Representatives of the Government of the Federal Republic of Germany
-GOVREP_EST,CB_EU,Representatives of the Government of the Republic of Estonia
-GOVREP_IRL,CB_EU,Representatives of the Government of Ireland
-GOVREP_GRC,CB_EU,Representatives of the Government of the Hellenic Republic
-GOVREP_ESP,CB_EU,Representatives of the Government of the Kingdom of Spain
-GOVREP_FRA,CB_EU,Representatives of the Government of the French Republic
-GOVREP_HRV,CB_EU,Representatives of the Government of the Republic of Croatia
-GOVREP_ITA,CB_EU,Representatives of the Government of the Italian Republic
-GOVREP_CYP,CB_EU,Representatives of the Government of the Republic of Cyprus
-GOVREP_LVA,CB_EU,Representatives of the Government of the Republic of Latvia
-GOVREP_LTU,CB_EU,Representatives of the Government of the Republic of Lithuania
-GOVREP_LUX,CB_EU,Representatives of the Government of the Grand Duchy of Luxembourg
-GOVREP_HUN,CB_EU,Representatives of the Government of Hungary
-GOVREP_MLT,CB_EU,Representatives of the Government of the Republic of Malta
-GOVREP_NLD,CB_EU,Representatives of the Government of the Kingdom of the Netherlands
-GOVREP_AUT,CB_EU,Representatives of the Government of the Republic of Austria
-GOVREP_POL,CB_EU,Representatives of the Government of the Republic of Poland
-GOVREP_PRT,CB_EU,Representatives of the Government of the Portuguese Republic
-GOVREP_ROU,CB_EU,Representatives of the Government of Romania
-GOVREP_SVN,CB_EU,Representatives of the Government of the Republic of Slovenia
-GOVREP_SVK,CB_EU,Representatives of the Government of the Slovak Republic
-GOVREP_FIN,CB_EU,Representatives of the Government of the Republic of Finland
-GOVREP_SWE,CB_EU,Representatives of the Government of the Kingdom of Sweden
-ELEN,CB_INT,European Language Equality Network
-ECML,CB_INT,European Centre for Modern Languages of the Council of Europe
-MERCATOR,CB_INT,Mercator Network
-CONSIL_PRES,CB_EU,Presidency of the Council of the EU
-EDPB,CB_EU,European Data Protection Board
-DEL_MUS_SYC,DEL,Delegation to Mauritius and to the Seychelles
-DEL_MDG_COM,DEL,Delegation to Madagascar and to the Comoros
-DEL_BWA_SADC,DEL,Delegation to Botswana and SADC
-DEL_DJI_IGAD,DEL,Delegation to Djibouti and IGAD
-IGAD,CB_INT,Intergovernmental Authority on Development
-DEL_GAB_STP_GNQ_ECCAS,DEL,"Delegation to Gabon, Equatorial Guinea, São Tomé-et-Principe and CEEAC"
-DEL_SOM,DEL,Delegation to Somalia
-DEL_ZMB_CMESA,DEL,Delegation to Zambia and COMESA
-STECF,CB_EU,"Scientific, Technical and Economic Committee for Fisheries"
-EP_OFF_AUT,LIA_OFF,Liaison Office in Austria
-EP_OFF_BEL,LIA_OFF,Liaison Office in Belgium
-EP_OFF_BGR,LIA_OFF,Liaison Office in Bulgaria
-EP_OFF_CYP,LIA_OFF,Liaison Office in Cyprus
-EP_OFF_DEU_BER,LIA_OFF,Liaison Office in Germany – Berlin
-EP_OFF_DEU_MUC,LIA_OFF,Liaison Office in Germany – Munich
-EP_OFF_DAN,LIA_OFF,Liaison Office in Denmark
-EP_OFF_EST,LIA_OFF,Liaison Office in Estonia
-EP_OFF_SPA_MAD,LIA_OFF,Liaison Office in Spain – Madrid
-EP_OFF_SPA_BCN,LIA_OFF,Liaison Office in Spain – Barcelona
-EP_OFF_FIN,LIA_OFF,Liaison Office in Finland
-EP_OFF_FRA_PAR,LIA_OFF,Liaison Office in France – Paris
-EP_OFF_FRA_MRS,LIA_OFF,Liaison Office in France – Marseille
-EP_OFF_FRA_SXB,LIA_OFF,Liaison Office in Strasbourg
-EP_OFF_GRC,LIA_OFF,Liaison Office in Greece
-EP_OFF_HUN,LIA_OFF,Liaison Office in Hungary
-EP_OFF_IRL,LIA_OFF,Liaison Office in Ireland
-EP_OFF_ITA_ROM,LIA_OFF,Liaison Office in Italy – Rome
-EP_OFF_ITA_MIL,LIA_OFF,Liaison Office in Italy – Milan
-EP_OFF_LVA,LIA_OFF,Liaison Office in Latvia
-EP_OFF_LIT,LIA_OFF,Liaison Office in Lithuania
-EP_OFF_LUX,LIA_OFF,Liaison Office in Luxembourg
-EP_OFF_MLT,LIA_OFF,Liaison Office in Malta
-EP_OFF_NLD,LIA_OFF,Liaison Office in the Netherlands
-EP_OFF_POL_WAW,LIA_OFF,Liaison Office in Poland – Warsaw
-EP_OFF_POL_WRO,LIA_OFF,Liaison Office in Poland – Wrocław
-EP_OFF_PRT,LIA_OFF,Liaison Office in Portugal
-EP_OFF_ROU,LIA_OFF,Liaison Office in Romania
-EP_OFF_SVK,LIA_OFF,Liaison Office in Slovakia
-EP_OFF_SVN,LIA_OFF,Liaison Office in Slovenia
-EP_OFF_SWE,LIA_OFF,Liaison Office in Sweden
-EP_OFF_GBR_LON,LIA_OFF,Liaison Office in the United Kingdom – London
-EP_OFF_GBR_EDI,LIA_OFF,Liaison Office in the United Kingdom – Edinburgh
-EP_OFF_USA,LIA_OFF,EP-US Congress Liaison Office in Washington
-EP_OFF_HRV,LIA_OFF,Liaison Office in Croatia
-EP_OFF_DEU,LIA_OFF,Liaison Office in Germany
-EP_OFF_SPA,LIA_OFF,Liaison Office in Spain
-EP_OFF_FRA,LIA_OFF,Liaison Office in France
-EP_OFF_ITA,LIA_OFF,Liaison Office in Italy
-EP_OFF_POL,LIA_OFF,Liaison Office in Poland
-EP_OFF_GBR,LIA_OFF,Liaison Office in the United Kingdom
-EIB_SG,CB_EU,General Secretariat of the EIB
-OMB_SG,CB_EU,Secretariat-General of the European Ombudsman
-EVS,CB_INT,European Voluntary Service
-PACIFIC_AL,CB_INT,Pacific Alliance
-HAS,SERV_DEP,Historical Archives Service
-SRSS,SERV_DEP,Structural Reform Support Service
-DPO,SERV_DEP,Data Protection Officer
-EEAS_SG,CB_EU,Secretariat-General of the EEAS
-EUROHPC,EU_JU,European High-Performance Computing Joint Undertaking
-REPRES_CZE,REPRES,Representation in Czechia
-EP_OFF_CZE,LIA_OFF,Liaison Office in Czechia
-CORDIS,CB_EU,CORDIS
-EASA,AGENCY_DEC,European Union Aviation Safety Agency
-ESI,CB_INT,European Stability Initiative
-LIMA_GROUP,CB_INT,Lima Group
-BEREC,CB_EU,Body of European Regulators for Electronic Communications
-BEREC_OFFICE,AGENCY_DEC,Agency for Support for BEREC
-DEL_MKD,DEL,Delegation to North Macedonia
-COUN_STAB_ASS_EU_MKD,COUN_STAB_ASS,EU–North Macedonia Stabilisation and Association Council
-EP_INTERPRET,EP_DIR_GEN,Directorate-General for Logistics and Interpretation for Conferences
-SAM_ADV,CB_EU,Group of Chief Scientific Advisors
-DEL_TKM,DEL,Delegation to Turkmenistan
-DEL_SWZ,DEL,Delegation to Eswatini
-DEL_PAN,DEL,Delegation to Panama
-DEL_NIC_SICA,DEL,Delegation to Nicaragua and to the Central American Integration System (SICA)
-ACER,AGENCY_DEC,European Union Agency for the Cooperation of Energy Regulators
-ENISA,AGENCY_DEC,European Union Agency for Cybersecurity
-ELA,AGENCY_DEC,European Labour Authority
-EEAREA_COUN,CB_INT,EEA Council
-EEAREA_JPC,CB_INT,EEA Joint Parliamentary Committee
-EEAREA_CC,CB_INT,EEA Consultative Committee
-EFTA_PC,CB_INT,EFTA Parliamentary Committee
-EFTA_CC,CB_INT,EFTA Consultative Committee
-EFTA_COUN,CB_INT,EFTA Council
-EFTA_BOA,CB_INT,EFTA Board of Auditors
-EFTA_STAT,CB_INT,EFTA Statistical Office
-INTCEN,CB_EU,EU Intelligence and Situation Centre
-EP_GROUP_ALDE,EP_GROUP,Renew Europe Group
-EP_GROUP_ID,EP_GROUP,Identity and Democracy Group
-EP_GROUP_EPP,EP_GROUP,Group of the European People’s Party
-DEL_PSE_UNRWA,DEL,"Delegation to West Bank and Gaza Strip, UNRWA"
-DEL_BRB_OECS_CARIFORUM_CARICOM,DEL,"Delegation to Barbados, the Eastern Caribbean States, the OECS and CARICOM/CARIFORUM"
-DEL_ASEAN,DEL,EU Mission to ASEAN
-DEL_IDN_BRN,DEL,Delegation to Indonesia and Brunei Darussalam
-DEL_BHR_OMN_SAU,DEL,"Delegation to Bahrain, Oman, and Saudi Arabia"
-DEL_GUY_SUR,DEL,"Delegation to Guyana, for Suriname, and with responsibility for Aruba, Bonaire, Curaçao, Saba, Saint Barthélemy, Sint Eustatius and Sint Maarten"
-DEL_VAT_SMR,DEL,"Delegation to the Holy See, Order of Malta, UN Organisations in Rome, and to San Marino"
-DEL_KWT,DEL,Delegation to Kuwait
-UKTF,SERV_DEP,UK Task Force
-EUROJUST,AGENCY_DEC,European Union Agency for Criminal Justice Cooperation
-DEFIS,DIR_GEN,Directorate-General for Defence Industry and Space
-REFORM,DIR_GEN,Directorate-General for Structural Reform Support
-IDEA,SERV_DEP,"IDEA – Inspire, Debate, Engage and Accelerate Action"
-BANK_NONEURO8,CB_EU,"National banks outside the Eurosystem: Българска народна банка, Česká národní banka, Danmarks Nationalbank, Hrvatska narodna banka, Magyar Nemzeti Bank, Narodowy Bank Polski, Banca Națională a României, Sveriges Riksbank"
-EUMS_NONEURO8,CB_EU,"Non-euro area Member States: Bulgaria, Czechia, Denmark, Croatia, Hungary, Poland, Romania, Sweden"
-EUMS27_1,CB_EU,"The twenty-seven Member States: Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden"
-DEL_GBR,DEL,Delegation to the United Kingdom
-COM_PRES,CB_EU,President of the European Commission
-ERCOU,CB_EU,European Research Council
-SC_OLAF,CB_EU,Supervisory Committee of OLAF
-INTPA,DIR_GEN,Directorate-General for International Partnerships
-EP_INGE,EP_CMT,"Special Committee on Foreign Interference in all Democratic Processes in the European Union, including Disinformation"
-EP_AIDA,EP_CMT,Special Committee on Artificial Intelligence in a Digital Age
-EP_BECA,EP_CMT,Special Committee on Beating Cancer
-EP_ANIT,EP_CMT,Committee of Inquiry on the Protection of Animals during Transport
-EP_FISC,EP_CMT,Subcommittee on Tax Matters
+authority-code,name,corporate_body_classification
+EAEC,European Atomic Energy Community,CB_EU
+EURUN,European Union,CB_EU
+COM,European Commission,EU_INST
+EP,European Parliament,EU_INST
+EURCOU,European Council,EU_INST
+CONSIL,Council of the European Union,EU_INST
+ECB,European Central Bank,EU_INST
+EIB,European Investment Bank,EU_BODY
+EIF,European Investment Fund,EU_BODY
+CJ,Court of Justice,EU_INST
+CURIA,Court of Justice of the European Union,EU_INST
+GCEU,General Court,EU_INST
+ECA,European Court of Auditors,EU_INST
+EEAS,European External Action Service,EU_BODY
+HRUFASP,High Representative of the Union,EU_BODY
+EESC,European Economic and Social Committee,EU_BODY
+OMB,European Ombudsman,EU_BODY
+EDPS,European Data Protection Supervisor,EU_BODY
+EPSO,European Personnel Selection Office,EU_INTERINSTSERV
+CDT,Translation Centre,AGENCY_DEC
+CEDEFOP,Cedefop,AGENCY_DEC
+CPVO,Community Plant Variety Office,AGENCY_DEC
+OSHA,European Agency for Safety and Health at Work,AGENCY_DEC
+ECDC,European Centre for Disease Prevention and Control,AGENCY_DEC
+ECHA,European Chemicals Agency,AGENCY_DEC
+EDA,European Defence Agency,AGENCY_CFSP
+EFSA,European Food Safety Authority,AGENCY_DEC
+EGSA,European GNSS Agency,AGENCY_DEC
+EUROFOUND,Eurofound,AGENCY_DEC
+EIGE,European Institute for Gender Equality,AGENCY_DEC
+EMSA,European Maritime Safety Agency,AGENCY_DEC
+EEA,European Environment Agency,AGENCY_DEC
+EMEA,European Medicines Agency,AGENCY_DEC
+EMCDDA,European Monitoring Centre for Drugs and Drug Addiction,AGENCY_DEC
+ETF,European Training Foundation,AGENCY_DEC
+FRA,European Union Agency for Fundamental Rights,AGENCY_DEC
+EUISS,European Union Institute for Security Studies,AGENCY_CFSP
+EUSC,European Union Satellite Centre,AGENCY_CFSP
+EACEA,"Education, Audiovisual and Culture Executive Agency",AGENCY_EXEC
+ERC,European Research Council Executive Agency,AGENCY_EXEC
+REA,Research Executive Agency,AGENCY_EXEC
+EURATOM,Euratom Supply Agency,AGENCY_EURATOM
+FUSEN,Fusion for Energy Joint Undertaking,AGENCY_EURATOM
+EIT,European Institute of Innovation and Technology,AGENCY_OTHER
+EASO,European Asylum Support Office,AGENCY_DEC
+EURAG,EU body or agency,CB_EU
+PUBL,Publications Office,EU_INTERINSTSERV
+MARE,Directorate-General for Maritime Affairs and Fisheries,DIR_GEN
+ENER,Directorate-General for Energy,DIR_GEN
+MOVE,Directorate-General for Mobility and Transport,DIR_GEN
+ENV,Directorate-General for Environment,DIR_GEN
+CLIMA,Directorate-General for Climate Action,DIR_GEN
+COMMU,Directorate-General for Communication,DIR_GEN
+AFN,Association française de normalisation,CB_OTHER
+WHO,World Health Organization,CB_INT
+SESAR,SESAR Joint Undertaking,EU_JU
+EMPL,"Directorate-General for Employment, Social Affairs and Inclusion",DIR_GEN
+SG,Secretariat-General,SERV_DEP
+SJ,Legal service,SERV_DEP
+ESTAT,Eurostat,DIR_GEN
+FPI,Service for Foreign Policy Instruments,SERV_DEP
+COMP,Directorate-General for Competition,DIR_GEN
+AGRI,Directorate-General for Agriculture and Rural Development,DIR_GEN
+HR,Directorate-General for Human Resources and Security,DIR_GEN
+RTD,Directorate-General for Research and Innovation,DIR_GEN
+JRC,Joint Research Centre,DIR_GEN
+ECFIN,Directorate-General for Economic and Financial Affairs,DIR_GEN
+TAXUD,Directorate-General for Taxation and Customs Union,DIR_GEN
+BUDG,Directorate-General for Budget,DIR_GEN
+DGT,Directorate-General for Translation,DIR_GEN
+DIGIT,Directorate-General for Informatics,DIR_GEN
+SCIC,Directorate-General for Interpretation,DIR_GEN
+IAS,Internal Audit Service,SERV_DEP
+TRADE,Directorate-General for Trade,DIR_GEN
+OLAF,European Anti-Fraud Office,SERV_DEP
+ECHR,European Court of Human Rights,CB_INT
+EFTA,European Free Trade Association,CB_INT
+ESRB,European Systemic Risk Board,CB_EU
+EP_AFCO,Committee on Constitutional Affairs,EP_CMT
+EP_AFET,Committee on Foreign Affairs,EP_CMT
+EP_AGRI,Committee on Agriculture and Rural Development,EP_CMT
+EP_PECH,Committee on Fisheries,EP_CMT
+EP_BUDG,Committee on Budgets,EP_CMT
+EP_CONT,Committee on Budgetary Control,EP_CMT
+EP_CULT,Committee on Culture and Education,EP_CMT
+EP_DELCON,Delegation to the Conciliation Committee,EP_CMT
+EP_DEVE,Committee on Development,EP_CMT
+EP_DROI,Subcommittee on Human Rights,EP_CMT
+EP_ECON,Committee on Economic and Monetary Affairs,EP_CMT
+EP_EMPL,Committee on Employment and Social Affairs,EP_CMT
+EP_ENVI,"Committee on the Environment, Public Health and Food Safety",EP_CMT
+EP_FEMM,Committee on Women’s Rights and Gender Equality,EP_CMT
+EP_ITRE,"Committee on Industry, Research and Energy",EP_CMT
+EP_JURI,Committee on Legal Affairs,EP_CMT
+EP_LIBE,"Committee on Civil Liberties, Justice and Home Affairs",EP_CMT
+EP_PETI,Committee on Petitions,EP_CMT
+EP_SEDE,Subcommittee on Security and Defence,EP_CMT
+EP_TRAN,Committee on Transport and Tourism,EP_CMT
+EP_INTA,Committee on International Trade,EP_CMT
+EP_IMCO,Committee on the Internal Market and Consumer Protection,EP_CMT
+ESCB,European System of Central Banks,CB_EU
+CMT_CONC,Conciliation Committee,CB_EU
+COUN_ASS,Association Council,CB_EU
+CMT_JOIN,Joint Committee,CB_EU
+COUN_COOP,Cooperation Council,CB_EU
+ACP_MIN,ACP Council of Ministers,CB_INT
+ACP_AMB,ACP Committee of Ambassadors,CB_INT
+CMT_COOP,Cooperation Committee,CB_EU
+COUN_JOIN,Joint Council,CB_EU
+EUMS,The Member States,CB_EU
+ACP,"African, Caribbean and Pacific Group of States",CB_INT
+EFC,Economic and Financial Committee,CB_EU
+EP_CMT,EP Committee,CB_EU
+EP_REGI,Committee on Regional Development,EP_CMT
+GOVREP,Representatives of the Governments of the Member States,CB_EU
+COURT_NAT,National Courts,CB_EU
+EFTA_STC,Standing Committee of the EFTA States,CB_INT
+EFTA_SUC,EFTA Surveillance Authority,CB_INT
+EFTA_COURT,EFTA Court,CB_INT
+EURCOU_PRES,President of the European Council,CB_EU
+CFCA,European Fisheries Control Agency,AGENCY_DEC
+ACP-EU_JPA,ACP–EU Joint Parliamentary Assembly,CB_INT
+EBA,European Banking Authority,AGENCY_DEC
+EIOPA,European Insurance and Occupational Pensions Authority,AGENCY_DEC
+ESMA,European Securities and Markets Authority,AGENCY_DEC
+BIS,Bank for International Settlements,CB_INT
+EIB_GOV,Board of Governors of the European Investment Bank,CB_EU
+COU_EUR,Council of Europe,CB_INT
+EUROCONTROL,Eurocontrol,CB_INT
+ESA,European Space Agency,CB_INT
+NATO,North Atlantic Treaty Organization,CB_INT
+FAO,Food and Agriculture Organization,CB_INT
+WTO,World Trade Organization,CB_INT
+CYBER,European Cybercrime Centre,CB_EU
+CNECT,"Directorate-General for Communications Networks, Content and Technology",DIR_GEN
+IRSG,International Rubber Study Group,CB_INT
+EURONEST,Euronest Parliamentary Assembly,CB_INT
+EFTA_SEC,EFTA Secretariat,CB_INT
+EFTA_MS,EFTA Member States,CB_INT
+NP,National parliaments,CB_EU
+EEAREA,European Economic Area,CB_INT
+EEAREA_MS,European Economic Area – Member States,CB_INT
+CMT_MIX,Joint Committee,CB_EU
+CMT_PARIT,Joint Committee,CB_EU
+UNHCR,Office of the United Nations High Commissioner for Refugees,CB_INT
+UNRWA,United Nations Relief and Works Agency for Palestine Refugees in the Near East,CB_INT
+UNICEF,United Nations Children’s Fund,CB_INT
+UNO,United Nations Organisation,CB_INT
+BERD,European Bank for Reconstruction and Development,CB_INT
+UNECE,United Nations Economic Commission for Europe,CB_INT
+ECOSOC,United Nations Economic and Social Council,CB_INT
+CMT_COOP_CUSTOM,Customs Cooperation Committee,CB_EU
+CMT_CONS,Consultative Committee,CB_EU
+ICRC,International Committee of the Red Cross,CB_INT
+ICES,International Council for the Exploration of the Sea,CB_INT
+IAEA,International Atomic Energy Agency,CB_INT
+IDA,International Development Association,CB_INT
+ICCS,International Commission on Civil Status,CB_INT
+ICAO,International Civil Aviation Organization,CB_INT
+ISOSUGAR,International Sugar Organization,CB_INT
+INTERPOL,Interpol,CB_INT
+ILO,International Labour Organization,CB_INT
+IBWM,International Bureau of Weights and Measures,CB_INT
+UNEP,United Nations Environment Programme,CB_INT
+WFP,World Food Programme,CB_INT
+OCHA,Office for the Coordination of Humanitarian Affairs,CB_INT
+UNESCO,Unesco,CB_INT
+REGIO,Directorate-General for Regional and Urban Policy,DIR_GEN
+EPOFF,European Patent Office,CB_INT
+EPORG,European Patent Organisation,CB_INT
+EMBL,European Molecular Biology Laboratory,CB_INT
+EAS,European School of Administration,EU_INTERINSTSERV
+OIB,Office for Infrastructure and Logistics in Brussels,SERV_DEP
+OIL,Office for Infrastructure and Logistics in Luxembourg,SERV_DEP
+PMO,Office for the Administration and Payment of Individual Entitlements,SERV_DEP
+EP_SG,Secretariat-General of the European Parliament,CB_EU
+EP_PRES,Directorate-General for the Presidency,EP_DIR_GEN
+EP_INTERNAL_POL,Directorate-General for Internal Policies of the Union,EP_DIR_GEN
+EP_EXTERN_POL,Directorate-General for External Policies of the Union,EP_DIR_GEN
+EP_COMMU,Directorate-General for Communication,EP_DIR_GEN
+EP_PERS,Directorate-General for Personnel,EP_DIR_GEN
+EP_INFRA_LOGIS,Directorate-General for Infrastructure and Logistics,EP_DIR_GEN
+EP_TRANSL,Directorate-General for Translation,EP_DIR_GEN
+EP_FINANCE,Directorate-General for Finance,EP_DIR_GEN
+EP_INNOV,Directorate-General for Innovation and Technological Support,EP_DIR_GEN
+EP_GROUP_SD,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,EP_GROUP
+EP_GROUP_ECR,European Conservatives and Reformists Group,EP_GROUP
+EP_GROUP_GREEN_EFA,Group of the Greens/European Free Alliance,EP_GROUP
+EP_GROUP_GUE_NGL,Confederal Group of the European United Left – Nordic Green Left,EP_GROUP
+ESM,European Stability Mechanism,CB_INT
+DEL_AFG,Delegation to Afghanistan,DEL
+DEL_ALB,Delegation to Albania,DEL
+DEL_DZA,Delegation to Algeria,DEL
+DEL_ARM,Delegation to Armenia,DEL
+DEL_AGO,Delegation to Angola,DEL
+DEL_ARG,Delegation to Argentina,DEL
+DEL_AUS,Delegation to Australia,DEL
+DEL_NZL,Delegation to New Zealand,DEL
+DEL_AZE,Delegation to Azerbaijan,DEL
+DEL_BIH,Delegation to Bosnia and Herzegovina,DEL
+DEL_BGD,Delegation to Bangladesh,DEL
+DEL_BFA,Delegation to Burkina Faso,DEL
+DEL_BOL,Delegation to Bolivia,DEL
+DEL_BRA,Delegation to Brazil,DEL
+DEL_BLR,Delegation to Belarus,DEL
+DEL_CAN,Delegation to Canada,DEL
+DEL_COD,Delegation to the Democratic Republic of the Congo,DEL
+DEL_COG,Delegation to Congo,DEL
+DEL_CAF,Delegation to Central African Republic,DEL
+DEL_CHE_LIE,Delegation to Switzerland and to Liechtenstein,DEL
+DEL_CIV,Delegation to Ivory Coast,DEL
+DEL_CHL,Delegation to Chile,DEL
+DEL_CMR,Delegation to Cameroon,DEL
+DEL_CHN,Delegation to China,DEL
+DEL_COL,Delegation to Colombia,DEL
+DEL_ECU,Delegation to Ecuador,DEL
+DEL_SRB,Delegation to Serbia,DEL
+DEL_MNE,Delegation to Montenegro,DEL
+DEL_CPV,Delegation to Cabo Verde,DEL
+DEL_DOM,Delegation to the Dominican Republic,DEL
+DEL_CUB,Delegation to Cuba,DEL
+DEL_EGY,Delegation to Egypt,DEL
+DEL_ERI,Delegation to Eritrea,DEL
+DEL_ETH,Delegation to Ethiopia,DEL
+DEL_PACIFIC,Delegation for the Pacific,DEL
+DEL_GEO,Delegation to Georgia,DEL
+DEL_GHA,Delegation to Ghana,DEL
+DEL_GTM,Delegation to Guatemala,DEL
+DEL_TTO,Delegation to Trinidad and Tobago,DEL
+DEL_HKG,Delegation to Hong Kong and Macao,DEL
+DEL_HTI,Delegation to Haiti,DEL
+DEL_TLS,Delegation to Timor-Leste,DEL
+DEL_ISR,Delegation to Israel,DEL
+DEL_IND_BTN,Delegation to India and to Bhutan,DEL
+DEL_NOR,Delegation to Norway,DEL
+DEL_ISL,Delegation to Iceland,DEL
+DEL_JAM_BLZ_BHS,"Delegation to Jamaica, Belize, The Bahamas, Turks and Caicos Islands and Cayman Islands",DEL
+DEL_JOR,Delegation to Jordan,DEL
+DEL_JPN,Delegation to Japan,DEL
+DEL_KEN,Delegation to Kenya,DEL
+DEL_KHM,Delegation to Cambodia,DEL
+DEL_KOR,Delegation to South Korea,DEL
+DEL_KAZ,Delegation to Kazakhstan,DEL
+DEL_KGZ,Delegation to Kyrgyzstan,DEL
+DEL_TJK,Delegation to Tajikistan,DEL
+DEL_LAO,Delegation to Laos,DEL
+DEL_LBN,Delegation to Lebanon,DEL
+DEL_LKA_MDV,Delegation to Sri Lanka and the Maldives,DEL
+DEL_LSO,Delegation to Lesotho,DEL
+DEL_MAR,Delegation to Morocco,DEL
+DEL_MDA,Delegation to Moldova,DEL
+DEL_MLI,Delegation to Mali,DEL
+DEL_MNG,Delegation to Mongolia,DEL
+DEL_MRT,Delegation in Mauritania,DEL
+DEL_MWI,Delegation to Malawi,DEL
+DEL_MEX,Delegation to Mexico,DEL
+DEL_MYS,Delegation to Malaysia,DEL
+DEL_MOZ,Delegation to Mozambique,DEL
+DEL_NAM,Delegation to Namibia,DEL
+DEL_NER,Delegation to Niger,DEL
+DEL_NGA_ECOWAS,Delegation to Nigeria and ECOWAS,DEL
+DEL_NPL,Delegation to Nepal,DEL
+DEL_PER,Delegation to Peru,DEL
+DEL_PHL,Delegation to the Philippines,DEL
+DEL_PAK,Delegation to Pakistan,DEL
+DEL_RUS,Delegation to Russia,DEL
+DEL_RWA,Delegation to Rwanda,DEL
+DEL_SGP,Delegation to Singapore,DEL
+DEL_SLE,Delegation to Sierra Leone,DEL
+DEL_SEN,Delegation to Senegal,DEL
+DEL_SYR,Delegation to Syria,DEL
+DEL_TCD,Delegation to Chad,DEL
+DEL_TGO,Delegation to Togo,DEL
+DEL_THA,Delegation to Thailand,DEL
+DEL_MMR,Delegation to Myanmar / Burma,DEL
+DEL_TUN,Delegation to Tunisia,DEL
+DEL_TUR,Delegation to Turkey,DEL
+DEL_TZA,Delegation to Tanzania,DEL
+DEL_UKR,Delegation to Ukraine,DEL
+DEL_UGA,Delegation to Uganda,DEL
+DEL_USA,Delegation to the United States of America,DEL
+DEL_UNO_NY,Delegation to the United Nations in New York,DEL
+DEL_URY,Delegation to Uruguay,DEL
+DEL_PRY,Delegation to Paraguay,DEL
+DEL_UZB,Delegation to Uzbekistan,DEL
+DEL_VEN,Delegation to Venezuela,DEL
+DEL_VNM,Delegation to Vietnam,DEL
+DEL_ORG_INT,Delegation to the International Organisations in Vienna,DEL
+DEL_ZAF,Delegation to South Africa,DEL
+DEL_ZWE,Delegation to Zimbabwe,DEL
+DEL_1A0,Office in Kosovo,DEL
+DEL_TWN,European Economic and Trade Office in Taiwan,DEL
+DEL_AFRICANUNION,Delegation to the African Union,DEL
+DEL_BEN,Delegation to Benin,DEL
+DEL_BDI,Delegation to Burundi,DEL
+DEL_COU_EUR,Delegation to the Council of Europe,DEL
+DEL_GMB,Delegation to The Gambia,DEL
+DEL_UNO_ORG_INT,Delegation to the UN and other international organisations in Geneva,DEL
+DEL_ORG_WTO,Permanent Mission to the World Trade Organisation,DEL
+DEL_GNB,Delegation to Guinea-Bissau,DEL
+DEL_GIN,Delegation to Guinea,DEL
+DEL_OECD_UNESCO,Delegation to the OECD and the UNESCO in Paris,DEL
+DEL_LBR,Delegation to Liberia,DEL
+DEL_PNG,Delegation to Papua New Guinea,DEL
+DEL_SDN,Delegation to Sudan,DEL
+DEL_YEM,Delegation to Yemen,DEL
+CONSIL_SG,General Secretariat of the Council,CB_EU
+ETHI,European Group on Ethics in Science and New Technologies,CB_EU
+COST,European cooperation in science and technology,CB_EU
+ESDC,European Security and Defence College,CB_EU
+EUI,European University Institute,CB_EU
+EIPA,European Institute of Public Administration,CB_EU
+OECD,Organisation for Economic Co-operation and Development,CB_INT
+WOAH,World Organisation for Animal Health,CB_INT
+WB,World Bank,CB_INT
+REPRES_AUT,Representation in Austria,REPRES
+REPRES_BEL,Representation in Belgium,REPRES
+REPRES_BGR,Representation in Bulgaria,REPRES
+REPRES_CYP,Representation in Cyprus,REPRES
+REPRES_DEU_BER,Representation in Germany – Berlin,REPRES
+REPRES_DEU_MUC,Representation in Germany – Munich,REPRES
+REPRES_DEU_BON,Representation in Germany – Bonn,REPRES
+REPRES_DAN,Representation in Denmark,REPRES
+REPRES_EST,Representation in Estonia,REPRES
+REPRES_SPA_MAD,Representation in Spain – Madrid,REPRES
+REPRES_SPA_BCN,Representation in Spain – Barcelona,REPRES
+REPRES_FIN,Representation in Finland,REPRES
+REPRES_FRA_PAR,Representation in France – Paris,REPRES
+REPRES_FRA_MRS,Representation in France – Marseille,REPRES
+REPRES_GRC,Representation in Greece,REPRES
+REPRES_HUN,Representation in Hungary,REPRES
+REPRES_IRL,Representation in Ireland,REPRES
+REPRES_ITA_ROM,Representation in Italy – Rome,REPRES
+REPRES_ITA_MIL,Representation in Italy – Milan,REPRES
+REPRES_LVA,Representation in Latvia,REPRES
+REPRES_LIT,Representation in Lithuania,REPRES
+REPRES_LUX,Representation in Luxembourg,REPRES
+REPRES_MLT,Representation in Malta,REPRES
+REPRES_NLD,Representation in the Netherlands,REPRES
+REPRES_POL_WAW,Representation in Poland – Warsaw,REPRES
+REPRES_POL_WRO,Representation in Poland – Wrocław,REPRES
+REPRES_PRT,Representation in Portugal,REPRES
+REPRES_ROU,Representation in Romania,REPRES
+REPRES_SVK,Representation in Slovakia,REPRES
+REPRES_SVN,Representation in Slovenia,REPRES
+REPRES_SWE,Representation in Sweden,REPRES
+CMT_EMPL,Employment Committee,CB_EU
+OTIF,Intergovernmental Organisation for International Carriage by Rail,CB_INT
+AECL,Atomic Energy of Canada Limited,CB_OTHER
+CMT_TRADE_EU_ROK,EU–Korea Trade Committee,CB_EU
+LISA,"European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice",AGENCY_DEC
+CCSS,Administrative Commission for the Coordination of Social Security Systems,CB_EU
+CMT_MIX_EEAREA,EEA Joint Committee,CMT_MIX
+CMT_MIX_EU_CHE,EU–Switzerland Joint Committee,CMT_MIX
+CMT_MIX_EU_MEX,EU–Mexico Joint Committee,CMT_MIX
+REPRES_HRV,Representation in Croatia,REPRES
+CMT_MIX_EU_ICAO,EU–ICAO Joint Committee,CMT_MIX
+CMT_AMB_EU_ACP,ACP–EU Committee of Ambassadors,CB_EU
+COUN_AMB_EU_ACP,ACP–EU Council of Ministers,CB_EU
+CCNR,Central Commission for the Navigation of the Rhine,CB_INT
+EPO_BA,Boards of Appeal of the European Patent Office,CB_INT
+ENER_COMNTY,Energy Community,CB_INT
+EASME,Executive Agency for Small and Medium-sized Enterprises,AGENCY_EXEC
+INEA,Innovation and Networks Executive Agency,AGENCY_EXEC
+CMT_PSC,Political and Security Committee,CB_EU
+CRS,Catholic Relief Service,CB_OTHER
+MERCOSUR,Mercosur,CB_INT
+ANDEAN,Andean Community,CB_INT
+CMT_INLAND_TRANSP_CHE,EC–Switzerland Inland Transport Committee,CB_EU
+CMT_ADVIS_MONOPOL,Advisory Committee on Restrictive Practices and Dominant Positions,CB_EU
+CMT_ADVIS_MERGER,Advisory Committee on Concentrations,CB_EU
+COUN_ASS_EU_MAR,EU–Morocco Association Council,COUN_ASS
+CAEU,Council of Arab Economic Unity,CB_INT
+EUROGRO,Eurogroup,CB_EU
+CARIFORUM,Caribbean Forum,CB_INT
+CARICOM,Caribbean Community,CB_INT
+EP_GROUP,European Parliament’s political groups,CB_EU
+GULF_COOP_COUN,Gulf Cooperation Council,CB_INT
+EUROSYSTEM,Eurosystem,CB_EU
+CERN,CERN,CB_INT
+COUN_JOIN_EU_CARIFORUM,CARIFORUM–EU Joint Council,CB_EU
+EP_RESEARCH,Directorate-General for Parliamentary Research Services,EP_DIR_GEN
+EP_LS,Legal Service,CB_EU
+EP_SAFE,Directorate-General for Security and Safety,EP_DIR_GEN
+NEAR,Directorate-General for Neighbourhood and Enlargement Negotiations,DIR_GEN
+GROW,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs",DIR_GEN
+HOME,Directorate-General for Migration and Home Affairs,DIR_GEN
+JUST,Directorate-General for Justice and Consumers,DIR_GEN
+FISMA,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union",DIR_GEN
+SANTE,Directorate-General for Health and Food Safety,DIR_GEN
+DEL_SLV,Delegation to El Salvador,DEL
+DEL_HND,Delegation to Honduras,DEL
+DEL_IRQ,Delegation to Iraq,DEL
+DEL_ARE,Delegation to United Arab Emirates,DEL
+EURSCHOOL,European schools,CB_EU
+G2,Group of 2,CB_INT
+G3,Group of 3 Europe,CB_INT
+G3_TER,Group of 3 with China,CB_INT
+G3_QUATER,Group of 3 with Japan,CB_INT
+G4,Group of 4,CB_EU
+G5_BIS,Group of 5 emerging economies,CB_INT
+G6,Group of 6 EU,CB_EU
+G7,Group of 7,CB_INT
+G7_5,Group of 7+5,CB_INT
+G8_BIS,Group of 8 with the EU,CB_INT
+G9,Group of 9,CB_INT
+G10,Group of 10,CB_INT
+G11,Group of 11,CB_INT
+G12,Group of 12,CB_INT
+G14,Group of 14,CB_INT
+G15,Group of 15,CB_INT
+G20,Group of 20,CB_INT
+G24,Group of 24,CB_INT
+G33_BIS,Group of 33 developing countries,CB_INT
+G77,Group of 77,CB_INT
+DATPRO,Provisional data,CB_OTHER
+SRB,Single Resolution Board,AGENCY_DEC
+EUSR,European Union Special Representative,CB_EU
+V4,Visegrad Group,CB_INT
+BRICS,BRICS countries,CB_INT
+UNASUR,Union of South American Nations,CB_INT
+CMT_STAFF,Staff Committee,CB_EU
+COM_CAB,Cabinets of Commissioners,CB_EU
+CONSIL_AGRIFISH,Agriculture and Fisheries Council,CB_EU
+CONSIL_COMPET,Competitiveness Council,CB_EU
+CONSIL_ECOFIN,Economic and Financial Affairs Council,CB_EU
+CONSIL_EYCS,"Education, Youth, Culture and Sport Council",CB_EU
+CONSIL_EPSCO,"Employment, Social Policy, Health and Consumer Affairs Council",CB_EU
+CONSIL_ENV,Environment Council,CB_EU
+CONSIL_FAC,Foreign Affairs Council,CB_EU
+CONSIL_GAC,General Affairs Council,CB_EU
+CONSIL_JHA,Justice and Home Affairs Council,CB_EU
+CONSIL_TTE,"Transport, Telecommunications and Energy Council",CB_EU
+COREPER,Permanent Representatives Committee,CB_EU
+COREPER_I,Committee of Permanent Representatives – Part I,CB_EU
+COREPER_II,Committee of Permanent Representatives – Part II,CB_EU
+EPPO,European Public Prosecutor’s Office,AGENCY_DEC
+RSCAS,Robert Schuman Centre for Advanced Studies,CB_EU
+WCDC,Working Community of the Danube Countries,CB_INT
+RECCEE,Regional Environmental Center for Central and Eastern Europe,CB_INT
+IRENA,International Renewable Energy Agency,CB_INT
+RESPA,Regional School for Public Administration,CB_INT
+IACA,International Anti-Corruption Academy,CB_INT
+FCH,Fuel Cells and Hydrogen 2 Joint Undertaking,EU_JU
+EIBI,European Investment Bank Institute,CB_EU
+EP_GROUP_NI,Non-attached Members,EP_GROUP
+EFSM,European Financial Stabilisation Mechanism,CB_EU
+CHAFEA,"Consumers, Health, Agriculture and Food Executive Agency",AGENCY_EXEC
+SKY,Clean Sky 2 Joint Undertaking,EU_JU
+IMI,IMI 2 Joint Undertaking,EU_JU
+ECSEL,ECSEL Joint Undertaking,EU_JU
+EUMS_EURO19,"The Member States having adopted the euro: Belgium, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Austria, Portugal, Slovenia, Slovakia, Finland",CB_EU
+BANK_EURO19,"National banks within the Eurosystem: Nationale Bank van België/Banque Nationale de Belgique, Deutsche Bundesbank, Eesti Pank, Banc Ceannais na hÉireann/Central Bank of Ireland, Τράπεζα της Ελλάδος, Banco de España, Banque de France, Banca d’Italia, Κεντρική Τράπεζα της Κύπρου, Latvijas Banka, Lietuvos Bankas, Banque centrale du Luxembourg, Bank Centrali ta’ Malta/Central Bank of Malta, De Nederlandsche Bank, Oesterreichische Nationalbank, Banco de Portugal, Banka Slovenije, Národná banka Slovenska, Suomen Pankki/Finlands Bank",CB_EU
+BBI,Bio-based Industries Joint Undertaking,EU_JU
+S2R,Shift2Rail Joint Undertaking,EU_JU
+EURY,Eurydice,CB_EU
+G4_BIS,G4 nations,CB_INT
+TRI_WMR,Weimar Triangle,CB_INT
+TRI_SVB,Slavkov Triangle,CB_INT
+ANZUS,ANZUS Treaty,CB_INT
+APEC,Asia-Pacific Economic Cooperation,CB_INT
+PLAN_CMB,Colombo Plan,CB_INT
+CMNW,Commonwealth,CB_INT
+CIS,Commonwealth of Independent States,CB_INT
+ICC,International Criminal Court,CB_INT
+IOM,International Organization for Migration,CB_INT
+IPU,Inter-Parliamentary Union,CB_INT
+EAPC,Euro-Atlantic Partnership Council,CB_INT
+NAFO,Northwest Atlantic Fisheries Organization,CB_INT
+DAC,Development Assistance Committee,CB_INT
+IEA,International Energy Agency,CB_INT
+NEA,Nuclear Energy Agency,CB_INT
+OPEC,Organization of the Petroleum Exporting Countries,CB_INT
+OPCW,Organization for the Prohibition of Chemical Weapons,CB_INT
+OSCE,Organization for Security and Cooperation in Europe,CB_INT
+ARRANG_WSS,Wassenaar Arrangement,CB_INT
+WCO,World Customs Organization,CB_INT
+DSB,Dispute Settlement Body,CB_INT
+ITF,International Transport Forum,CB_INT
+ASEAN,Association of Southeast Asian Nations,CB_INT
+OAS,Organization of American States,CB_INT
+AFDB,African Development Bank,CB_INT
+UNION_AFR,African Union,CB_INT
+ACJHR,African Court of Justice and Human Rights,CB_INT
+AMU,Arab Maghreb Union,CB_INT
+CAEMC,Central African Economic and Monetary Community,CB_INT
+CMESA,Common Market for Eastern and Southern Africa,CB_INT
+CSSS,Community of Sahel-Saharan States,CB_INT
+EACOM,East African Community,CB_INT
+ECCAS,Economic Community of Central African States,CB_INT
+ECWAS,Economic Community of West African States,CB_INT
+SACU,Southern African Customs Union,CB_INT
+SADC,Southern African Development Community,CB_INT
+WAEMU,West African Economic and Monetary Union,CB_INT
+ACS,Association of Caribbean States,CB_INT
+CDB,Caribbean Development Bank,CB_INT
+FTAA,Free Trade Area of the Americas,CB_INT
+NAFTA,North American Free Trade Agreement,CB_INT
+IACHR,Inter-American Court of Human Rights,CB_INT
+LEAGUE_ARAB,Arab League,CB_INT
+ACM,Arab Common Market,CB_INT
+OAPEC,Organization of Arab Petroleum Exporting Countries,CB_INT
+PLO,Palestine Liberation Organisation,CB_INT
+ASPAC,Asian and Pacific Council,CB_INT
+APDC,Asian and Pacific Development Centre,CB_INT
+ADB,Asian Development Bank,CB_INT
+APPU,Asian-Pacific Parliamentarians’ Union,CB_INT
+APO,Asian Productivity Organisation,CB_INT
+BENELUX,Benelux Union,CB_EU
+PIF,Pacific Islands Forum,CB_INT
+SPC,Pacific Community,CB_INT
+SAARC,South Asian Association for Regional Cooperation,CB_INT
+LAIA,Latin American Integration Association,CB_INT
+ANDEAN_PARL,Andean Parliament,CB_INT
+CAIS,Central American Integration System,CB_INT
+CACM,Central American Common Market,CB_INT
+CABEI,Central American Bank for Economic Integration,CB_INT
+CAP,Central American Parliament,CB_INT
+GROUP_CNTDR,Contadora Group,CB_INT
+IDB,Inter-American Development Bank,CB_INT
+IILAC,Institute for the Integration of Latin America and the Caribbean,CB_INT
+LACES,Latin American and the Caribbean Economic System,CB_INT
+LA_PARL,Latin American Parliament,CB_INT
+GROUP_RIO,Rio Group,CB_INT
+SCO,Shanghai Cooperation Organisation,CB_INT
+COU_ARCTIC,Arctic Council,CB_INT
+EEU,Eurasian Economic Union,CB_INT
+CORDAID,Cordaid,CB_INT
+P5,Five Permanent Members,CB_INT
+L69,L69 Group,CB_INT
+UFC,Uniting for Consensus,CB_INT
+CSTO,Collective Security Treaty Organization,CB_INT
+UNSC,Security Council,CB_INT
+CELAB,Center for Ethics and Law in Biomedicine,CB_INT
+ETSC,European Transport Safety Council,CB_INT
+IFRC,International Federation of Red Cross and Red Crescent Societies,CB_INT
+COU_EUR_EDQM,European Directorate for the Quality of Medicines,CB_INT
+COU_EUR_ECARI,European Commission against Racism and Intolerance,CB_INT
+COU_EUR_DB,Council of Europe Development Bank,CB_INT
+COU_EUR_PA,Parliamentary Assembly of the Council of Europe,CB_INT
+COU_EUR_CM,Committee of Ministers of the Council of Europe,CB_INT
+NSG,Nuclear Suppliers Group,CB_INT
+ICCROM,International Centre for the Study of the Preservation and Restoration of Cultural Property,CB_INT
+ICMPD,International Centre for Migration Policy Development,CB_INT
+ITLOS,International Tribunal for the Law of the Sea,CB_INT
+IWC,International Whaling Commission,CB_INT
+PCA,Permanent Court of Arbitration,CB_INT
+COR_CIVEX,"Commission for Citizenship, Governance, Institutional and External Affairs",COR_COM
+COR_COTER,Commission for Territorial Cohesion Policy and EU Budget,COR_COM
+COR_ECON,Commission for Economic Policy,COR_COM
+COR_ENVE,"Commission for the Environment, Climate Change and Energy",COR_COM
+COR_NAT,Commission for Natural Resources,COR_COM
+COR_SEDEC,"Commission for Social Policy, Education, Employment, Research and Culture",COR_COM
+COR_GROUP_ALDE,Alliance of Liberals and Democrats for Europe,COR_GROUP
+COR_GROUP_EA,European Alliance,COR_GROUP
+COR_GROUP_ECR,European Conservatives and Reformists Group,COR_GROUP
+COR_GROUP_EPP,European People’s Party,COR_GROUP
+COR_GROUP_NI,Non-attached (NI),COR_GROUP
+COR_GROUP_PES,Party of European Socialists,COR_GROUP
+MPC,Migration Policy Centre,CB_EU
+CBRN_COE,CBRN Centres of Excellence,CB_EU
+OAMI,European Union Intellectual Property Office,AGENCY_DEC
+WIPO,World Intellectual Property Organisation,CB_INT
+BOIP,Benelux Office for Intellectual Property,CB_INT
+NGO,Non-governmental organisation,CB_INT
+AI,Amnesty International,CB_INT
+CEMR,Council of European Municipalities and Regions,CB_INT
+IATA,International Air Transport Association,CB_INT
+IFLA,International Federation of Library Associations and Institutions,CB_INT
+ISSA,International Social Security Association,CB_INT
+ITUC,International Trade Union Confederation,CB_INT
+ISO,ISO,CB_INT
+UNSAG,United Nations specialized agency,CB_INT
+UNREGICOM,United Nations regional commission,CB_INT
+UNTECCOM,United Nations technical commission,CB_INT
+UNSB,United Nations subsidiary body,CB_INT
+UNCOM,United Nations commission,CB_INT
+UNECA,United Nations Economic Commission for Africa,CB_INT
+UNECLAC,United Nations Economic Commission for Latin America and the Caribbean,CB_INT
+UNESCAP,United Nations Economic and Social Commission for Asia and the Pacific,CB_INT
+UNESCWA,United Nations Economic and Social Commission for Western Asia,CB_INT
+UNCSOCD,United Nations Commission for Social Development,CB_INT
+UNCCPCJ,United Nations Commission on Crime Prevention and Criminal Justice,CB_INT
+UNHRCOU,United Nations Human Rights Council,CB_INT
+UNCHRC,United Nations Human Rights Committee,CB_INT
+UNCND,United Nations Commission on Narcotic Drugs,CB_INT
+UNCOMPD,United Nations Commission on Population and Development,CB_INT
+UNCSTD,United Nations Commission on Science and Technology for Development,CB_INT
+UNHLPF,United Nations High-level Political Forum on Sustainable Development,CB_INT
+UNCSW,United Nations Commission on the Status of Women,CB_INT
+UNFF,United Nations Forum on Forests,CB_INT
+UNSCOM,United Nations Statistical Commission,CB_INT
+ICJ,International Court of Justice,CB_INT
+UNGA,General Assembly of the United Nations,CB_INT
+UNSEC,United Nations Secretariat,CB_INT
+UNTC,United Nations Trusteeship Council,CB_INT
+OHCHR,Office of the High Commissioner for Human Rights,CB_INT
+UNCTAD,United Nations Conference on Trade and Development,CB_INT
+EESC_CCMI,Consultative Commission on Industrial Change,CB_EU
+UNDP,United Nations Development Programme,CB_INT
+IPCC,Intergovernmental Panel on Climate Change,CB_INT
+UNODC,United Nations Office on Drugs and Crime,CB_INT
+UNFPA,United Nations Population Fund,CB_INT
+UNCRD,United Nations Centre for Regional Development,CB_INT
+UNIDIR,United Nations Institute for Disarmament Research,CB_INT
+UNITAR,United Nations Institute for Training and Research,CB_INT
+UNWOMEN,UN Women,CB_INT
+UNICRI,United Nations Interregional Crime and Justice Research Institute,CB_INT
+UNRISD,United Nations Research Institute for Social Development,CB_INT
+UNAIDS,UNAIDS,CB_INT
+ICGEB,International Centre for Genetic Engineering and Biotechnology,CB_INT
+IFAD,International Fund for Agricultural Development,CB_INT
+ILC,International Labour Conference,CB_INT
+ILOFF,International Labour Office,CB_INT
+IMO,International Maritime Organisation,CB_INT
+IMF,International Monetary Fund,CB_INT
+INCB,International Narcotics Control Board,CB_INT
+ITU,International Telecommunication Union,CB_INT
+IBE,International Bureau of Education,CB_INT
+IIEP,International Institute for Educational Planning,CB_INT
+UNISIST,World Scientific and Technical Information System,CB_INT
+UNIDO,United Nations Industrial Development Organization,CB_INT
+UPU,Universal Postal Union,CB_INT
+IBRD,International Bank for Reconstruction and Development,CB_INT
+ICSID,International Centre for Settlement of Investment Disputes,CB_INT
+IFC,International Finance Corporation,CB_INT
+MIGA,Multilateral Investment Guarantee Agency,CB_INT
+WMO,World Meteorological Organization,CB_INT
+UNWTO,World Tourism Organization,CB_INT
+ITC,International Trade Centre,CB_INT
+BLEU,Belgo-Luxembourg Economic Union,CB_INT
+BEUC,European Consumer Organisation,CB_INT
+EUROCORPS,Eurocorps,CB_INT
+CBSS,Council of the Baltic Sea States,CB_INT
+EFI,European Forest Institute,CB_INT
+NORDENCOU,Nordic Council,CB_INT
+EBUNION,European Barge Union,CB_INT
+EBU,European Broadcasting Union,CB_INT
+BSSE,BusinessEurope,CB_INT
+CEFTA,Central European Free Trade Agreement,CB_INT
+EUTELSAT,Eutelsat,CB_INT
+ETUI,European Trade Union Institute,CB_EU
+ETUC,European Trade Union Confederation,CB_INT
+CEN,European Committee for Standardization,CB_INT
+CENELEC,European Committee for Electrotechnical Standardisation,CB_INT
+ETSI,European Telecommunications Standards Institute,CB_INT
+ELEC,European League for Economic Cooperation,CB_INT
+ECAC,European Civil Aviation Conference,CB_INT
+CEEP,European Centre of Employers and Enterprises providing Public Services,CB_INT
+EAES,European Atomic Energy Society,CB_EU
+EANPC,European Association of National Productivity Centres,CB_INT
+EADI,European Association of Development Research and Training Institutes,CB_INT
+ECPRD,European Centre for Parliamentary Research and Documentation,CB_INT
+CEPT,European Conference of Postal and Telecommunications Administrations,CB_INT
+COU_EUR_CLRAE,Congress of Local and Regional Authorities of Europe,CB_INT
+COU_EUR_CDCPP,"Steering Committee for Culture, Heritage and Landscape",CB_INT
+COU_EUR_CDPPE,Steering Committee for Education Policy and Practice,CB_INT
+COU_EUR_EYF,European Youth Foundation,CB_INT
+EESC_NAT,"Section for Agriculture, Rural Development and the Environment",CB_EU
+EESC_ECO,Section for Economic and Monetary Union and Economic and Social Cohesion,CB_EU
+EESC_SOC,"Section for Employment, Social Affairs and Citizenship",CB_EU
+EESC_REX,Section for External Relations,CB_EU
+EESC_INT,"Section for the Single Market, Production and Consumption",CB_EU
+EESC_TEN,"Section for Transport, Energy, Infrastructure and the Information Society",CB_EU
+EFB,European Fiscal Board,CB_EU
+CEPOL,European Union Agency for Law Enforcement Training,AGENCY_DEC
+ECHO,Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO),DIR_GEN
+ERA,European Union Agency for Railways,AGENCY_DEC
+RSB,Regulatory Scrutiny Board,CB_EU
+EEAS_EUMS,European Union military staff,CB_EU
+EEAS_DEL,EU Delegations and Offices,CB_EU
+CC,Creative Commons,CB_INT
+ODC,Open Data Commons,CB_INT
+FSF,Free Software Foundation,CB_INT
+FVO,Directorate for Health and Food Audits and Analysis,DIR
+EVHAC,European Voluntary Humanitarian Aid Corps,CB_EU
+EURASHE,European Association of Institutions in Higher Education,CB_INT
+FRONTEX,Frontex,AGENCY_DEC
+LRC,Library and e-Resources Centre,SERV_DEP
+EPC,Economic Policy Committee,CB_EU
+ACSH,Advisory Committee on Safety and Health at Work,CB_EU
+EAC,"Directorate-General for Education, Youth, Sport and Culture",DIR_GEN
+AEPPEPF,Authority for European Political Parties and European Political Foundations,CB_EU
+EESC_SG,Secretariat-General of the European Economic and Social Committee,CB_EU
+EP_GROUP_SEC,Political groups’ secretariats,EP_GROUP
+REPRES_DEU,Representation in Germany,REPRES
+REPRES_SPA,Representation in Spain,REPRES
+REPRES_FRA,Representation in France,REPRES
+REPRES_ITA,Representation in Italy,REPRES
+REPRES_POL,Representation in Poland,REPRES
+COR,European Committee of the Regions,EU_BODY
+REPRES_PERM,Permanent representations,CB_EU
+DEL_SSD,Delegation to South Sudan,DEL
+DEL_LBY,Delegation to Libya,DEL
+DEL_CRI,Delegation to Costa Rica,DEL
+COM_COLL,College of Commissioners,CB_EU
+EUROPOL,Europol,AGENCY_DEC
+EEAS_BA,Directorate-General for Budget and Administration,CB_EU
+EEAS_POL,Service of Deputy Secretary General for political affairs,CB_EU
+EEAS_ECO,Service of Deputy Secretary General for economic and global issues,CB_EU
+EEAS_CSDP,Service of Deputy Secretary General CSDP and crisis response,CB_EU
+ESGAB,European Statistical Governance Advisory Board,CB_EU
+WADA,World Anti-Doping Agency,CB_INT
+COR_SG,Secretariat-General of the European Committee of the Regions,CB_EU
+COR_GROUP,Political groups of the European Committee of the Regions,CB_EU
+COR_DIR_MEMBERS_PLENARIES,Directorate for Members and Plenaries,COR_DIR
+COR_DIR_LEGISLATIVE_1,Directorate for Legislative Work 1,COR_DIR
+COR_DIR_LEGISLATIVE_2,Directorate for Legislative Work 2,COR_DIR
+COR_DIR_COMMUNICATION,Directorate for Communication,COR_DIR
+COR_DIR_HR_FINANCE,Directorate for Human Resources and Finance,COR_DIR
+COR_DIR_LOGISTICS,Directorate for Logistics,COR_DIR
+COR_DIR_TRANSLATION,Directorate for Translation,COR_DIR
+CERT,"Computer Emergency Response Team for the EU institutions, bodies and agencies",EU_INTERINSTSERV
+COUN_ASS_EU_DZA,EU–Algeria Association Council,COUN_ASS
+COUN_ASS_EU_CENTR_AMER,EU–Central America Association Council,COUN_ASS
+COUN_ASS_EU_CHL,EU–Chile Association Council,COUN_ASS
+COUN_ASS_EU_EGY,EU–Egypt Association Council,COUN_ASS
+COUN_ASS_EU_GEO,EU–Georgia Association Council,COUN_ASS
+COUN_ASS_EU_ISR,EU–Israel Association Council,COUN_ASS
+COUN_ASS_EU_JOR,EU–Jordan Association Council,COUN_ASS
+COUN_ASS_EU_LBN,EU–Lebanon Association Council,COUN_ASS
+COUN_ASS_EU_MDA,EU–Moldova Association Council,COUN_ASS
+COUN_ASS_EU_TUN,EU–Tunisia Association Council,COUN_ASS
+COUN_ASS_EU_TUR,EU–Turkey Association Council,COUN_ASS
+COUN_ASS_EU_UKR,EU–Ukraine Association Council,COUN_ASS
+COUN_COOP_EU_ARM,EU–Armenia Cooperation Council,COUN_COOP
+COUN_COOP_EU_AZE,EU–Azerbaijan Cooperation Council,COUN_COOP
+COUN_COOP_EU_KAZ,EU–Kazakhstan Cooperation Council,COUN_COOP
+COUN_COOP_EU_KGZ,EU–Kyrgyzstan Cooperation Council,COUN_COOP
+COUN_JOIN_EU_MEX,EU–Mexico Joint Council,COUN_COOP
+COUN_COOP_EU_ZAF,EU–South Africa Cooperation Council,COUN_COOP
+COUN_COOP_EU_SYR,EU–Syria Cooperation Council,COUN_COOP
+COUN_COOP_EU_TJK,EU–Tajikistan Cooperation Council,COUN_COOP
+COUN_COOP_EU_UZB,EU–Uzbekistan Cooperation Council,COUN_COOP
+COUN_STAB_ASS,Stabilisation and Association Council,CB_EU
+COUN_STAB_ASS_EU_ALB,EU–Albania Stabilisation and Association Council,COUN_STAB_ASS
+COUN_STAB_ASS_EU_BIH,EU–Bosnia and Herzegovina Stabilisation and Association Council,COUN_STAB_ASS
+COUN_STAB_ASS_EU_KOSOVO,EU–Kosovo Stabilisation and Association Council,COUN_STAB_ASS
+COUN_STAB_ASS_EU_MNE,EU–Montenegro Stabilisation and Association Council,COUN_STAB_ASS
+COUN_STAB_ASS_EU_SRB,EU–Serbia Stabilisation and Association Council,COUN_STAB_ASS
+GOVREP_BEL,Representatives of the Governments of the Kingdom of Belgium,CB_EU
+GOVREP_BGR,Representatives of the Government of the Republic of Bulgaria,CB_EU
+GOVREP_CZE,Representatives of the Government of the Czech Republic,CB_EU
+GOVREP_DNK,Representatives of the Government of the Kingdom of Denmark,CB_EU
+GOVREP_DEU,Representatives of the Government of the Federal Republic of Germany,CB_EU
+GOVREP_EST,Representatives of the Government of the Republic of Estonia,CB_EU
+GOVREP_IRL,Representatives of the Government of Ireland,CB_EU
+GOVREP_GRC,Representatives of the Government of the Hellenic Republic,CB_EU
+GOVREP_ESP,Representatives of the Government of the Kingdom of Spain,CB_EU
+GOVREP_FRA,Representatives of the Government of the French Republic,CB_EU
+GOVREP_HRV,Representatives of the Government of the Republic of Croatia,CB_EU
+GOVREP_ITA,Representatives of the Government of the Italian Republic,CB_EU
+GOVREP_CYP,Representatives of the Government of the Republic of Cyprus,CB_EU
+GOVREP_LVA,Representatives of the Government of the Republic of Latvia,CB_EU
+GOVREP_LTU,Representatives of the Government of the Republic of Lithuania,CB_EU
+GOVREP_LUX,Representatives of the Government of the Grand Duchy of Luxembourg,CB_EU
+GOVREP_HUN,Representatives of the Government of Hungary,CB_EU
+GOVREP_MLT,Representatives of the Government of the Republic of Malta,CB_EU
+GOVREP_NLD,Representatives of the Government of the Kingdom of the Netherlands,CB_EU
+GOVREP_AUT,Representatives of the Government of the Republic of Austria,CB_EU
+GOVREP_POL,Representatives of the Government of the Republic of Poland,CB_EU
+GOVREP_PRT,Representatives of the Government of the Portuguese Republic,CB_EU
+GOVREP_ROU,Representatives of the Government of Romania,CB_EU
+GOVREP_SVN,Representatives of the Government of the Republic of Slovenia,CB_EU
+GOVREP_SVK,Representatives of the Government of the Slovak Republic,CB_EU
+GOVREP_FIN,Representatives of the Government of the Republic of Finland,CB_EU
+GOVREP_SWE,Representatives of the Government of the Kingdom of Sweden,CB_EU
+ELEN,European Language Equality Network,CB_INT
+ECML,European Centre for Modern Languages of the Council of Europe,CB_INT
+MERCATOR,Mercator Network,CB_INT
+CONSIL_PRES,Presidency of the Council of the EU,CB_EU
+EDPB,European Data Protection Board,CB_EU
+DEL_MUS_SYC,Delegation to Mauritius and to the Seychelles,DEL
+DEL_MDG_COM,Delegation to Madagascar and to the Comoros,DEL
+DEL_BWA_SADC,Delegation to Botswana and SADC,DEL
+DEL_DJI_IGAD,Delegation to Djibouti and IGAD,DEL
+IGAD,Intergovernmental Authority on Development,CB_INT
+DEL_GAB_STP_GNQ_ECCAS,"Delegation to Gabon, Equatorial Guinea, São Tomé-et-Principe and CEEAC",DEL
+DEL_SOM,Delegation to Somalia,DEL
+DEL_ZMB_CMESA,Delegation to Zambia and COMESA,DEL
+STECF,"Scientific, Technical and Economic Committee for Fisheries",CB_EU
+EP_OFF_AUT,Liaison Office in Austria,LIA_OFF
+EP_OFF_BEL,Liaison Office in Belgium,LIA_OFF
+EP_OFF_BGR,Liaison Office in Bulgaria,LIA_OFF
+EP_OFF_CYP,Liaison Office in Cyprus,LIA_OFF
+EP_OFF_DEU_BER,Liaison Office in Germany – Berlin,LIA_OFF
+EP_OFF_DEU_MUC,Liaison Office in Germany – Munich,LIA_OFF
+EP_OFF_DAN,Liaison Office in Denmark,LIA_OFF
+EP_OFF_EST,Liaison Office in Estonia,LIA_OFF
+EP_OFF_SPA_MAD,Liaison Office in Spain – Madrid,LIA_OFF
+EP_OFF_SPA_BCN,Liaison Office in Spain – Barcelona,LIA_OFF
+EP_OFF_FIN,Liaison Office in Finland,LIA_OFF
+EP_OFF_FRA_PAR,Liaison Office in France – Paris,LIA_OFF
+EP_OFF_FRA_MRS,Liaison Office in France – Marseille,LIA_OFF
+EP_OFF_FRA_SXB,Liaison Office in Strasbourg,LIA_OFF
+EP_OFF_GRC,Liaison Office in Greece,LIA_OFF
+EP_OFF_HUN,Liaison Office in Hungary,LIA_OFF
+EP_OFF_IRL,Liaison Office in Ireland,LIA_OFF
+EP_OFF_ITA_ROM,Liaison Office in Italy – Rome,LIA_OFF
+EP_OFF_ITA_MIL,Liaison Office in Italy – Milan,LIA_OFF
+EP_OFF_LVA,Liaison Office in Latvia,LIA_OFF
+EP_OFF_LIT,Liaison Office in Lithuania,LIA_OFF
+EP_OFF_LUX,Liaison Office in Luxembourg,LIA_OFF
+EP_OFF_MLT,Liaison Office in Malta,LIA_OFF
+EP_OFF_NLD,Liaison Office in the Netherlands,LIA_OFF
+EP_OFF_POL_WAW,Liaison Office in Poland – Warsaw,LIA_OFF
+EP_OFF_POL_WRO,Liaison Office in Poland – Wrocław,LIA_OFF
+EP_OFF_PRT,Liaison Office in Portugal,LIA_OFF
+EP_OFF_ROU,Liaison Office in Romania,LIA_OFF
+EP_OFF_SVK,Liaison Office in Slovakia,LIA_OFF
+EP_OFF_SVN,Liaison Office in Slovenia,LIA_OFF
+EP_OFF_SWE,Liaison Office in Sweden,LIA_OFF
+EP_OFF_GBR_LON,Liaison Office in the United Kingdom – London,LIA_OFF
+EP_OFF_GBR_EDI,Liaison Office in the United Kingdom – Edinburgh,LIA_OFF
+EP_OFF_USA,EP-US Congress Liaison Office in Washington,LIA_OFF
+EP_OFF_HRV,Liaison Office in Croatia,LIA_OFF
+EP_OFF_DEU,Liaison Office in Germany,LIA_OFF
+EP_OFF_SPA,Liaison Office in Spain,LIA_OFF
+EP_OFF_FRA,Liaison Office in France,LIA_OFF
+EP_OFF_ITA,Liaison Office in Italy,LIA_OFF
+EP_OFF_POL,Liaison Office in Poland,LIA_OFF
+EP_OFF_GBR,Liaison Office in the United Kingdom,LIA_OFF
+EIB_SG,General Secretariat of the EIB,CB_EU
+OMB_SG,Secretariat-General of the European Ombudsman,CB_EU
+EVS,European Voluntary Service,CB_INT
+PACIFIC_AL,Pacific Alliance,CB_INT
+HAS,Historical Archives Service,SERV_DEP
+SRSS,Structural Reform Support Service,SERV_DEP
+DPO,Data Protection Officer,SERV_DEP
+EEAS_SG,Secretariat-General of the EEAS,CB_EU
+EUROHPC,European High-Performance Computing Joint Undertaking,EU_JU
+REPRES_CZE,Representation in Czechia,REPRES
+EP_OFF_CZE,Liaison Office in Czechia,LIA_OFF
+CORDIS,CORDIS,CB_EU
+EASA,European Union Aviation Safety Agency,AGENCY_DEC
+ESI,European Stability Initiative,CB_INT
+LIMA_GROUP,Lima Group,CB_INT
+BEREC,Body of European Regulators for Electronic Communications,CB_EU
+BEREC_OFFICE,Agency for Support for BEREC,AGENCY_DEC
+DEL_MKD,Delegation to North Macedonia,DEL
+COUN_STAB_ASS_EU_MKD,EU–North Macedonia Stabilisation and Association Council,COUN_STAB_ASS
+EP_INTERPRET,Directorate-General for Logistics and Interpretation for Conferences,EP_DIR_GEN
+SAM_ADV,Group of Chief Scientific Advisors,CB_EU
+DEL_TKM,Delegation to Turkmenistan,DEL
+DEL_SWZ,Delegation to Eswatini,DEL
+DEL_PAN,Delegation to Panama,DEL
+DEL_NIC_SICA,Delegation to Nicaragua and to the Central American Integration System (SICA),DEL
+ACER,European Union Agency for the Cooperation of Energy Regulators,AGENCY_DEC
+ENISA,European Union Agency for Cybersecurity,AGENCY_DEC
+ELA,European Labour Authority,AGENCY_DEC
+EEAREA_COUN,EEA Council,CB_INT
+EEAREA_JPC,EEA Joint Parliamentary Committee,CB_INT
+EEAREA_CC,EEA Consultative Committee,CB_INT
+EFTA_PC,EFTA Parliamentary Committee,CB_INT
+EFTA_CC,EFTA Consultative Committee,CB_INT
+EFTA_COUN,EFTA Council,CB_INT
+EFTA_BOA,EFTA Board of Auditors,CB_INT
+EFTA_STAT,EFTA Statistical Office,CB_INT
+INTCEN,EU Intelligence and Situation Centre,CB_EU
+EP_GROUP_ALDE,Renew Europe Group,EP_GROUP
+EP_GROUP_ID,Identity and Democracy Group,EP_GROUP
+EP_GROUP_EPP,Group of the European People’s Party,EP_GROUP
+DEL_PSE_UNRWA,"Delegation to West Bank and Gaza Strip, UNRWA",DEL
+DEL_BRB_OECS_CARIFORUM_CARICOM,"Delegation to Barbados, the Eastern Caribbean States, the OECS and CARICOM/CARIFORUM",DEL
+DEL_ASEAN,EU Mission to ASEAN,DEL
+DEL_IDN_BRN,Delegation to Indonesia and Brunei Darussalam,DEL
+DEL_BHR_OMN_SAU,"Delegation to Bahrain, Oman, and Saudi Arabia",DEL
+DEL_GUY_SUR,"Delegation to Guyana, for Suriname, and with responsibility for Aruba, Bonaire, Curaçao, Saba, Saint Barthélemy, Sint Eustatius and Sint Maarten",DEL
+DEL_VAT_SMR,"Delegation to the Holy See, Order of Malta, UN Organisations in Rome, and to San Marino",DEL
+DEL_KWT,Delegation to Kuwait,DEL
+UKTF,UK Task Force,SERV_DEP
+EUROJUST,European Union Agency for Criminal Justice Cooperation,AGENCY_DEC
+DEFIS,Directorate-General for Defence Industry and Space,DIR_GEN
+REFORM,Directorate-General for Structural Reform Support,DIR_GEN
+IDEA,"IDEA – Inspire, Debate, Engage and Accelerate Action",SERV_DEP
+BANK_NONEURO8,"National banks outside the Eurosystem: Българска народна банка, Česká národní banka, Danmarks Nationalbank, Hrvatska narodna banka, Magyar Nemzeti Bank, Narodowy Bank Polski, Banca Națională a României, Sveriges Riksbank",CB_EU
+EUMS_NONEURO8,"Non-euro area Member States: Bulgaria, Czechia, Denmark, Croatia, Hungary, Poland, Romania, Sweden",CB_EU
+EUMS27_1,"The twenty-seven Member States: Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden",CB_EU
+DEL_GBR,Delegation to the United Kingdom,DEL
+COM_PRES,President of the European Commission,CB_EU
+ERCOU,European Research Council,CB_EU
+SC_OLAF,Supervisory Committee of OLAF,CB_EU
+INTPA,Directorate-General for International Partnerships,DIR_GEN
+EP_INGE,"Special Committee on Foreign Interference in all Democratic Processes in the European Union, including Disinformation",EP_CMT
+EP_AIDA,Special Committee on Artificial Intelligence in a Digital Age,EP_CMT
+EP_BECA,Special Committee on Beating Cancer,EP_CMT
+EP_ANIT,Committee of Inquiry on the Protection of Animals during Transport,EP_CMT
+EP_FISC,Subcommittee on Tax Matters,EP_CMT
