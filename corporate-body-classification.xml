@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corporate-body-classification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                               original.entries.date="2016-06-15"
+                               current.entries.date="2018-09-12"
+                               table.structure.version="01-02.09-20180830"
+                               table.id="corporate-body-classification"
+                               ref.administration="cat.admin.xml"
+                               xsi:noNamespaceSchemaLocation="http://publications.europa.eu/mdr/resource/authority-schema/cat-01-02.09-20180830.xsd"
+                               version="20180926-0">
+   <record deprecated="false"
+           id="CBC001"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>CB</authority-code>
+      <child.id>CB_EU</child.id>
+      <child.id>CB_INT</child.id>
+      <child.id>CB_OTHER</child.id>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Корпоративен орган</lg.version>
+         <lg.version lg="ces">Právnická osoba</lg.version>
+         <lg.version lg="dan">Juridisk person</lg.version>
+         <lg.version lg="deu">Körperschaft</lg.version>
+         <lg.version lg="ell" script="Greek">Νομικό πρόσωπο</lg.version>
+         <lg.version lg="eng">Corporate body</lg.version>
+         <lg.version lg="est">Juriidiline isik</lg.version>
+         <lg.version lg="fin">Oikeushenkilö</lg.version>
+         <lg.version lg="fra">Entité légale</lg.version>
+         <lg.version lg="gle">Comhlacht corparáideach</lg.version>
+         <lg.version lg="hrv">Pravna osoba</lg.version>
+         <lg.version lg="hun">Jogi személy</lg.version>
+         <lg.version lg="ita">Persona giuridica</lg.version>
+         <lg.version lg="lav">Juridiska persona</lg.version>
+         <lg.version lg="lit">Juridinis asmuo</lg.version>
+         <lg.version lg="mlt">Korp korporattiv</lg.version>
+         <lg.version lg="nld">Rechtspersoon</lg.version>
+         <lg.version lg="pol">Osoba prawna</lg.version>
+         <lg.version lg="por">Organismo</lg.version>
+         <lg.version lg="ron">Persoană juridică</lg.version>
+         <lg.version lg="slk">Právnická osoba</lg.version>
+         <lg.version lg="slv">Pravna oseba</lg.version>
+         <lg.version lg="spa">Persona jurídica</lg.version>
+         <lg.version lg="swe">Juridisk person</lg.version>
+      </label>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>A corporate body is a legal entity which can be defined by a name.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1951-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC002"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>CB_EU</authority-code>
+      <child.id>EU_INST</child.id>
+      <child.id>EU_BODY</child.id>
+      <child.id>EU_INTERINSTSERV</child.id>
+      <child.id>EU_JU</child.id>
+      <child.id>EU_AGENCY</child.id>
+      <child.id>REPRES</child.id>
+      <child.id>DEL</child.id>
+      <child.id>INF_OFF</child.id>
+      <child.id>DIR_GEN</child.id>
+      <child.id>DIR</child.id>
+      <child.id>CMT_MIX</child.id>
+      <child.id>COUN_ASS</child.id>
+      <child.id>COUN_COOP</child.id>
+      <child.id>EP_CMT</child.id>
+      <child.id>EP_GROUP</child.id>
+      <child.id>EP_DIR_GEN</child.id>
+      <child.id>COR_COM</child.id>
+      <child.id>COR_GROUP</child.id>
+      <child.id>COR_DIR</child.id>
+      <child.id>COUN_STAB_ASS</child.id>
+      <child.id>LIA_OFF</child.id>
+      <child.id>SERV_DEP</child.id>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Корпоративен орган на Европейския съюз</lg.version>
+         <lg.version lg="ces">Právnická osoba Evropské unie</lg.version>
+         <lg.version lg="dan">Juridisk person under EU</lg.version>
+         <lg.version lg="deu">Körperschaft der Europäischen Union</lg.version>
+         <lg.version lg="ell" script="Greek">Νομικό πρόσωπο της Ευρωπαϊκής Ένωσης</lg.version>
+         <lg.version lg="eng">European Union corporate body</lg.version>
+         <lg.version lg="est">Euroopa Liidu juriidiline isik</lg.version>
+         <lg.version lg="fin">Euroopan unionin oikeushenkilö</lg.version>
+         <lg.version lg="fra">Entité légale de l’Union européenne</lg.version>
+         <lg.version lg="gle">Comhlacht corparáideach de chuid an Aontais Eorpaigh</lg.version>
+         <lg.version lg="hrv">Pravna osoba Europske unije</lg.version>
+         <lg.version lg="hun">Európai uniós jogi személy</lg.version>
+         <lg.version lg="ita">Persona giuridica dell’Unione europea</lg.version>
+         <lg.version lg="lav">Eiropas Savienības juridiska persona</lg.version>
+         <lg.version lg="lit">Europos Sąjungos juridinis asmuo</lg.version>
+         <lg.version lg="mlt">Korp korporattiv tal-Unjoni Ewropea</lg.version>
+         <lg.version lg="nld">Rechtspersoon van de Europese Unie</lg.version>
+         <lg.version lg="pol">Osoba prawna należąca do Unii Europejskiej</lg.version>
+         <lg.version lg="por">Organismo da União Europeia</lg.version>
+         <lg.version lg="ron">Persoană juridică (Uniunea Europeană)</lg.version>
+         <lg.version lg="slk">Právnická osoba Európskej únie</lg.version>
+         <lg.version lg="slv">Pravna oseba Evropske unije</lg.version>
+         <lg.version lg="spa">Persona jurídica de la Unión Europea</lg.version>
+         <lg.version lg="swe">Juridisk person inom Europeiska unionen</lg.version>
+      </label>
+      <parent.id>CB</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>A corporate body that belongs to the EU or to one of its predecessors.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1951-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC003"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>CB_INT</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Международна организация</lg.version>
+         <lg.version lg="ces">Mezinárodní organizace</lg.version>
+         <lg.version lg="dan">International organisation</lg.version>
+         <lg.version lg="deu">Internationale Organisation</lg.version>
+         <lg.version lg="ell" script="Greek">Διεθνής οργανισμός</lg.version>
+         <lg.version lg="eng">International organisation</lg.version>
+         <lg.version lg="est">Rahvusvaheline organisatsioon</lg.version>
+         <lg.version lg="fin">Kansainvälinen järjestö</lg.version>
+         <lg.version lg="fra">Organisation internationale</lg.version>
+         <lg.version lg="gle">Eagraíocht idirnáisiúnta</lg.version>
+         <lg.version lg="hrv">Međunarodna organizacija</lg.version>
+         <lg.version lg="hun">Nemzetközi szervezet</lg.version>
+         <lg.version lg="ita">Organizzazione internazionale</lg.version>
+         <lg.version lg="lav">Starptautiska organizācija</lg.version>
+         <lg.version lg="lit">Tarptautinė organizacija</lg.version>
+         <lg.version lg="mlt">Organizzazzjoni internazzjonali</lg.version>
+         <lg.version lg="nld">Internationale organisatie</lg.version>
+         <lg.version lg="pol">Organizacja międzynarodowa</lg.version>
+         <lg.version lg="por">Organização internacional</lg.version>
+         <lg.version lg="ron">Organizație internațională</lg.version>
+         <lg.version lg="slk">Medzinárodná organizácia</lg.version>
+         <lg.version lg="slv">Mednarodna organizacija</lg.version>
+         <lg.version lg="spa">Organización internacional</lg.version>
+         <lg.version lg="swe">Internationell organisation</lg.version>
+      </label>
+      <parent.id>CB</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>An international organization is an organization with an international membership, scope, or presence.</description>
+            <provenance>Wikipedia</provenance>
+         </source>
+      </sources>
+      <start.use>1900-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC004"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>CB_OTHER</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Друга организация</lg.version>
+         <lg.version lg="ces">Jiná organizace</lg.version>
+         <lg.version lg="dan">Anden organisation</lg.version>
+         <lg.version lg="deu">Andere Organisation</lg.version>
+         <lg.version lg="ell" script="Greek">Άλλος οργανισμός</lg.version>
+         <lg.version lg="eng">Other organisation</lg.version>
+         <lg.version lg="est">Muu organisatsioon</lg.version>
+         <lg.version lg="fin">Muu järjestö</lg.version>
+         <lg.version lg="fra">Autre organisation</lg.version>
+         <lg.version lg="gle">Eagraíocht eile</lg.version>
+         <lg.version lg="hrv">Druga organizacija</lg.version>
+         <lg.version lg="hun">Egyéb szervezet</lg.version>
+         <lg.version lg="ita">Altra organizzazione</lg.version>
+         <lg.version lg="lav">Cita organizācija</lg.version>
+         <lg.version lg="lit">Kita organizacija</lg.version>
+         <lg.version lg="mlt">Organizzazzjoni oħra</lg.version>
+         <lg.version lg="nld">Andere organisatie</lg.version>
+         <lg.version lg="pol">Inna organizacja</lg.version>
+         <lg.version lg="por">Outra organização</lg.version>
+         <lg.version lg="ron">Altă organizație</lg.version>
+         <lg.version lg="slk">Iná organizácia</lg.version>
+         <lg.version lg="slv">Druga organizacija</lg.version>
+         <lg.version lg="spa">Otra organización</lg.version>
+         <lg.version lg="swe">Annan organisation</lg.version>
+      </label>
+      <parent.id>CB</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>An organisation that does not belong to the EU or to one of its predecessors, nor has an international membership, scope, or presence.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2012-08-30</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC005"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>EU_INST</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Институция на ЕС</lg.version>
+         <lg.version lg="ces">Instituce EU</lg.version>
+         <lg.version lg="dan">EU-institution</lg.version>
+         <lg.version lg="deu">EU-Institution</lg.version>
+         <lg.version lg="ell" script="Greek">Θεσμικό όργανο της ΕΕ</lg.version>
+         <lg.version lg="eng">EU institution</lg.version>
+         <lg.version lg="est">ELi institutsioon</lg.version>
+         <lg.version lg="fin">EU:n toimielin</lg.version>
+         <lg.version lg="fra">Institution de l’UE</lg.version>
+         <lg.version lg="gle">Institiúid de chuid an AE</lg.version>
+         <lg.version lg="hrv">Institucija EU-a</lg.version>
+         <lg.version lg="hun">EU-intézmény</lg.version>
+         <lg.version lg="ita">Istituzione dell’UE</lg.version>
+         <lg.version lg="lav">ES iestāde</lg.version>
+         <lg.version lg="lit">ES institucija</lg.version>
+         <lg.version lg="mlt">Istituzzjoni tal-UE</lg.version>
+         <lg.version lg="nld">EU-instelling</lg.version>
+         <lg.version lg="pol">Instytucja UE</lg.version>
+         <lg.version lg="por">Instituição da UE</lg.version>
+         <lg.version lg="ron">Instituție a UE</lg.version>
+         <lg.version lg="slk">Inštitúcia EÚ</lg.version>
+         <lg.version lg="slv">Institucija EU</lg.version>
+         <lg.version lg="spa">Institución de la UE</lg.version>
+         <lg.version lg="swe">EU-institution</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>The institutions of the European Union are the seven principal decision making bodies of the European Union. They are listed in Article 13 of the Treaty on European Union.</description>
+            <provenance>Wikipedia</provenance>
+         </source>
+      </sources>
+      <start.use>1951-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC006"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>EU_BODY</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Орган на ЕС</lg.version>
+         <lg.version lg="ces">Orgán EU</lg.version>
+         <lg.version lg="dan">EU-organ</lg.version>
+         <lg.version lg="deu">EU-Einrichtung</lg.version>
+         <lg.version lg="ell" script="Greek">Όργανο της ΕΕ</lg.version>
+         <lg.version lg="eng">EU body</lg.version>
+         <lg.version lg="est">ELi asutus</lg.version>
+         <lg.version lg="fin">EU:n elin</lg.version>
+         <lg.version lg="fra">Organe de l’UE</lg.version>
+         <lg.version lg="gle">Comhlacht de chuid an AE</lg.version>
+         <lg.version lg="hrv">Tijelo EU-a</lg.version>
+         <lg.version lg="hun">EU-szerv</lg.version>
+         <lg.version lg="ita">Organo dell’UE</lg.version>
+         <lg.version lg="lav">ES struktūra</lg.version>
+         <lg.version lg="lit">ES organas</lg.version>
+         <lg.version lg="mlt">Korp tal-UE</lg.version>
+         <lg.version lg="nld">EU-orgaan</lg.version>
+         <lg.version lg="pol">Organ UE</lg.version>
+         <lg.version lg="por">Órgão da UE</lg.version>
+         <lg.version lg="ron">Organ al UE</lg.version>
+         <lg.version lg="slk">Orgán EÚ</lg.version>
+         <lg.version lg="slv">Organ EU</lg.version>
+         <lg.version lg="spa">Órgano de la UE</lg.version>
+         <lg.version lg="swe">EU-organ</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>A European Union corporate body that collaborates with the EU institutions playing an advisory or other specialised role.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1951-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC007"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>EU_INTERINSTSERV</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Междуинституционална служба на ЕС</lg.version>
+         <lg.version lg="ces">Interinstitucionální služby EU</lg.version>
+         <lg.version lg="dan">EU's interinstitutionelle tjeneste</lg.version>
+         <lg.version lg="deu">Interinstitutioneller Dienst der EU</lg.version>
+         <lg.version lg="ell" script="Greek">Διοργανική υπηρεσία της ΕΕ</lg.version>
+         <lg.version lg="eng">EU interinstitutional service</lg.version>
+         <lg.version lg="est">ELi institutsioonidevaheline talitus</lg.version>
+         <lg.version lg="fin">EU:n toimielinten välinen</lg.version>
+         <lg.version lg="fra">Service interinstitutionnel de l’UE</lg.version>
+         <lg.version lg="gle">Seirbhís idirinstitiúideach AE</lg.version>
+         <lg.version lg="hrv">Međuinstitucijska služba EU-a</lg.version>
+         <lg.version lg="hun">EU intézményközi szolgálat</lg.version>
+         <lg.version lg="ita">Servizio interistituzionale dell’UE</lg.version>
+         <lg.version lg="lav">ES iestāžu dienests</lg.version>
+         <lg.version lg="lit">ES tarpinstitucinė tarnyba</lg.version>
+         <lg.version lg="mlt">Servizz interistituzzjonali tal-UE</lg.version>
+         <lg.version lg="nld">Interinstitutionele dienst van de EU</lg.version>
+         <lg.version lg="pol">Służba międzyinstytucjonalna UE</lg.version>
+         <lg.version lg="por">Serviço interinstitucional da UE</lg.version>
+         <lg.version lg="ron">Serviciu interinstituțional al UE</lg.version>
+         <lg.version lg="slk">Medziinštitucionálna služba EÚ</lg.version>
+         <lg.version lg="slv">Medinstitucionalna služba EU</lg.version>
+         <lg.version lg="spa">Servicio interinstitucional de la UE</lg.version>
+         <lg.version lg="swe">EU:s interinstitutionella tjänster</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>The interinstitutional services are under governance of EU institutions and bodies and are attached administratively to the European Commission.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1968-12-31</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC008"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>EU_JU</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съвместно предприятие на ЕС</lg.version>
+         <lg.version lg="ces">Společný podnik EU</lg.version>
+         <lg.version lg="dan">EU's fællesforetagende</lg.version>
+         <lg.version lg="deu">Gemeinsames Unternehmen der EU</lg.version>
+         <lg.version lg="ell" script="Greek">Κοινή επιχείρηση της ΕΕ</lg.version>
+         <lg.version lg="eng">EU joint undertaking</lg.version>
+         <lg.version lg="est">ELi ühisettevõte</lg.version>
+         <lg.version lg="fin">EU:n yhteisyritys</lg.version>
+         <lg.version lg="fra">Entreprise commune de l’UE</lg.version>
+         <lg.version lg="gle">Comhghnóthas an AE</lg.version>
+         <lg.version lg="hrv">Zajedničko poduzeće EU-a</lg.version>
+         <lg.version lg="hun">EU közös vállalkozás</lg.version>
+         <lg.version lg="ita">Impresa comune dell’UE</lg.version>
+         <lg.version lg="lav">ES kopuzņēmums</lg.version>
+         <lg.version lg="lit">ES bendroji įmonė</lg.version>
+         <lg.version lg="mlt">Impriża konġunta tal-UE</lg.version>
+         <lg.version lg="nld">Gemeenschappelijke onderneming van de EU</lg.version>
+         <lg.version lg="pol">Wspólne przedsięwzięcie UE</lg.version>
+         <lg.version lg="por">Empresa comum da UE</lg.version>
+         <lg.version lg="ron">Întreprinderea comună a UE</lg.version>
+         <lg.version lg="slk">Spoločný podnik EÚ</lg.version>
+         <lg.version lg="slv">Skupno podjetje EU</lg.version>
+         <lg.version lg="spa">Empresa común de la UE</lg.version>
+         <lg.version lg="swe">Gemensamt företag under EU</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>A EU joint undertaking is a public-private partnership between the European Union and private companies.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2007-02-27</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC009"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>EU_AGENCY</authority-code>
+      <child.id>AGENCY_DEC</child.id>
+      <child.id>AGENCY_EXEC</child.id>
+      <child.id>AGENCY_OTHER</child.id>
+      <child.id>AGENCY_EURATOM</child.id>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Агенция на ЕС</lg.version>
+         <lg.version lg="ces">Agentura EU</lg.version>
+         <lg.version lg="dan">EU-agentur</lg.version>
+         <lg.version lg="deu">EU-Agentur</lg.version>
+         <lg.version lg="ell" script="Greek">Οργανισμός της ΕΕ</lg.version>
+         <lg.version lg="eng">EU agency</lg.version>
+         <lg.version lg="est">ELi amet</lg.version>
+         <lg.version lg="fin">EU:n virasto</lg.version>
+         <lg.version lg="fra">Agence de l’UE</lg.version>
+         <lg.version lg="gle">Gníomhaireacht de chuid an AE</lg.version>
+         <lg.version lg="hrv">Agencija EU-a</lg.version>
+         <lg.version lg="hun">EU-ügynökség</lg.version>
+         <lg.version lg="ita">Agenzia dell’UE</lg.version>
+         <lg.version lg="lav">ES aģentūra</lg.version>
+         <lg.version lg="lit">ES agentūra</lg.version>
+         <lg.version lg="mlt">Aġenzija tal-UE</lg.version>
+         <lg.version lg="nld">EU-agentschap</lg.version>
+         <lg.version lg="pol">Agencja UE</lg.version>
+         <lg.version lg="por">Agência da UE</lg.version>
+         <lg.version lg="ron">Agenție a UE</lg.version>
+         <lg.version lg="slk">Agentúra EÚ</lg.version>
+         <lg.version lg="slv">Agencija EU</lg.version>
+         <lg.version lg="spa">Agencia de la UE</lg.version>
+         <lg.version lg="swe">EU-byrå</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>An agency of the European Union is a decentralised body of the European Union, which is distinct from the institutions and bodies. Agencies are established to accomplish specific tasks. Each agency has its own legal personality.</description>
+            <provenance>Wikipedia</provenance>
+         </source>
+      </sources>
+      <start.use>1958-12-06</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC010"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>AGENCY_DEC</authority-code>
+      <child.id>AGENCY_CFSP</child.id>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Децентрализирана агенция</lg.version>
+         <lg.version lg="ces">Decentralizovaná agentura</lg.version>
+         <lg.version lg="dan">Decentralt agentur</lg.version>
+         <lg.version lg="deu">Dezentrale Agentur</lg.version>
+         <lg.version lg="ell" script="Greek">Αποκεντρωμένος οργανισμός</lg.version>
+         <lg.version lg="eng">Decentralised agency</lg.version>
+         <lg.version lg="est">Detsentraliseeritud asutus</lg.version>
+         <lg.version lg="fin">Hajautettu virasto</lg.version>
+         <lg.version lg="fra">Agence décentralisée</lg.version>
+         <lg.version lg="gle">Gníomhaireacht dhíláraithe</lg.version>
+         <lg.version lg="hrv">Decentralizirana agencija</lg.version>
+         <lg.version lg="hun">Decentralizált ügynökség</lg.version>
+         <lg.version lg="ita">Agenzia decentrata</lg.version>
+         <lg.version lg="lav">Decentralizēta aģentūra</lg.version>
+         <lg.version lg="lit">Decentralizuota agentūra</lg.version>
+         <lg.version lg="mlt">Aġenzija deċentralizzata</lg.version>
+         <lg.version lg="nld">Gedecentraliseerd agentschap</lg.version>
+         <lg.version lg="pol">Agencja zdecentralizowana</lg.version>
+         <lg.version lg="por">Agência descentralizada</lg.version>
+         <lg.version lg="ron">Agenție descentralizată</lg.version>
+         <lg.version lg="slk">Decentralizovaná agentúra</lg.version>
+         <lg.version lg="slv">Decentralizirana agencija</lg.version>
+         <lg.version lg="spa">Agencia descentralizada</lg.version>
+         <lg.version lg="swe">Decentraliserad byrå</lg.version>
+      </label>
+      <parent.id>EU_AGENCY</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>Agencies created by a specific legislative act and charged with a particular task.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1994-09-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC011"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>AGENCY_EXEC</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Изпълнителна агенция</lg.version>
+         <lg.version lg="ces">Výkonná agentura</lg.version>
+         <lg.version lg="dan">Forvaltningsorgan</lg.version>
+         <lg.version lg="deu">Exekutivagentur</lg.version>
+         <lg.version lg="ell" script="Greek">Εκτελεστικός οργανισμός</lg.version>
+         <lg.version lg="eng">Executive agency</lg.version>
+         <lg.version lg="est">Rakendusamet</lg.version>
+         <lg.version lg="fin">Toimeenpanovirasto</lg.version>
+         <lg.version lg="fra">Agence exécutive</lg.version>
+         <lg.version lg="gle">Gníomhaireacht feidhmiúcháin</lg.version>
+         <lg.version lg="hrv">Izvršna agencija</lg.version>
+         <lg.version lg="hun">Végrehajtó ügynökség</lg.version>
+         <lg.version lg="ita">Agenzia esecutiva</lg.version>
+         <lg.version lg="lav">Izpildaģentūra</lg.version>
+         <lg.version lg="lit">Vykdomoji įstaiga</lg.version>
+         <lg.version lg="mlt">Aġenzija eżekuttiva</lg.version>
+         <lg.version lg="nld">Uitvoerend agentschap</lg.version>
+         <lg.version lg="pol">Agencja wykonawcza</lg.version>
+         <lg.version lg="por">Agência de execução</lg.version>
+         <lg.version lg="ron">Agenție executivă</lg.version>
+         <lg.version lg="slk">Výkonná agentúra</lg.version>
+         <lg.version lg="slv">Izvajalska agencija</lg.version>
+         <lg.version lg="spa">Agencia ejecutiva</lg.version>
+         <lg.version lg="swe">Genomförandeorgan</lg.version>
+      </label>
+      <parent.id>EU_AGENCY</parent.id>
+      <sources url="http://publications.europa.eu/code/en/en-390500.htm#952">
+         <source date="2016-06-15" lg="eng">
+            <description>Legal entities established in accordance with Council Regulation (EC) No 58/2003 (OJ L 11, 16.1.2003) with a view to being entrusted with certain tasks relating to the management of one or more European Union programmes. These agencies are set up for a fixed period.</description>
+            <provenance>Interinstitutional style guide</provenance>
+         </source>
+      </sources>
+      <start.use>2014-12-17</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC012"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>AGENCY_OTHER</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Друга агенция</lg.version>
+         <lg.version lg="ces">Jiná agentura</lg.version>
+         <lg.version lg="dan">Andet agentur</lg.version>
+         <lg.version lg="deu">Andere Agentur</lg.version>
+         <lg.version lg="ell" script="Greek">Άλλος οργανισμός</lg.version>
+         <lg.version lg="eng">Other agency</lg.version>
+         <lg.version lg="est">Muu asutus</lg.version>
+         <lg.version lg="fin">Muu virasto</lg.version>
+         <lg.version lg="fra">Autre organisme</lg.version>
+         <lg.version lg="gle">Gníomhaireacht eile</lg.version>
+         <lg.version lg="hrv">Druga agencija</lg.version>
+         <lg.version lg="hun">Egyéb ügynökség</lg.version>
+         <lg.version lg="ita">Altra agenzia</lg.version>
+         <lg.version lg="lav">Cita aģentūra</lg.version>
+         <lg.version lg="lit">Kita agentūra</lg.version>
+         <lg.version lg="mlt">Aġenzija oħra</lg.version>
+         <lg.version lg="nld">Ander agentschap</lg.version>
+         <lg.version lg="pol">Inna agencja</lg.version>
+         <lg.version lg="por">Outra agência</lg.version>
+         <lg.version lg="ron">Altă agenție</lg.version>
+         <lg.version lg="slk">Iná agentúra</lg.version>
+         <lg.version lg="slv">Druga agencija</lg.version>
+         <lg.version lg="spa">Otro organismo</lg.version>
+         <lg.version lg="swe">Annan byrå</lg.version>
+      </label>
+      <parent.id>EU_AGENCY</parent.id>
+      <sources>
+         <source date="2016-06-15" lg="eng">
+            <description>A European Union agency which cannot be classified as decentralised, executive, Euratom, or common foreign and security policy agency.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2007-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC013"
+           IMMC.proposal.date="2016-06-27"
+           IMMC.approval.date="2016-06-27"
+           date.creation="2016-06-15"
+           adm.status="current">
+      <authority-code>AGENCY_EURATOM</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Агенция към Евратом</lg.version>
+         <lg.version lg="ces">Agentura Euratomu</lg.version>
+         <lg.version lg="dan">Euratoms agentur</lg.version>
+         <lg.version lg="deu">Euratom-Agentur</lg.version>
+         <lg.version lg="ell" script="Greek">Οργανισμός της Ευρατόμ</lg.version>
+         <lg.version lg="eng">Euratom agency</lg.version>
+         <lg.version lg="est">Euratomi agentuur</lg.version>
+         <lg.version lg="fin">Euratomin virasto</lg.version>
+         <lg.version lg="fra">Agence d’Euratom</lg.version>
+         <lg.version lg="gle">Gníomhaireacht Euratom</lg.version>
+         <lg.version lg="hrv">Agencija Euratoma</lg.version>
+         <lg.version lg="hun">Euratom-ügynökség</lg.version>
+         <lg.version lg="ita">Agenzia dell’Euratom</lg.version>
+         <lg.version lg="lav">Euratom aģentūra</lg.version>
+         <lg.version lg="lit">Euratomo agentūra</lg.version>
+         <lg.version lg="mlt">Aġenzija Euratom</lg.version>
+         <lg.version lg="nld">Euratom-agentschap</lg.version>
+         <lg.version lg="pol">Agencja Euratomu</lg.version>
+         <lg.version lg="por">Agência da Euratom</lg.version>
+         <lg.version lg="ron">Agenția Euratom</lg.version>
+         <lg.version lg="slk">Agentúra Euratomu</lg.version>
+         <lg.version lg="slv">Agencija Euratom</lg.version>
+         <lg.version lg="spa">Agencia de Euratom</lg.version>
+         <lg.version lg="swe">Euratoms byrå</lg.version>
+      </label>
+      <parent.id>EU_AGENCY</parent.id>
+      <sources url="http://publications.europa.eu/code/en/en-390500.htm#954">
+         <source date="2016-06-15" lg="eng">
+            <description>Agencies which have been created to support the aims of the European Atomic Energy Community Treaty (Euratom).</description>
+            <provenance>Interinstitutional style guide</provenance>
+         </source>
+      </sources>
+      <start.use>1958-12-06</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC014"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>AGENCY_CFSP</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Агенции на общата външна политика и политика на сигурност</lg.version>
+         <lg.version lg="ces">Agentura společné zahraniční a bezpečnostní politiky</lg.version>
+         <lg.version lg="dan">Agentur af den fælles udenrigs- og sikkerhedspolitik</lg.version>
+         <lg.version lg="deu">Agentur der Gemeinsamen Außen- und Sicherheitspolitik</lg.version>
+         <lg.version lg="ell" script="Greek">Οργανισμός της κοινής εξωτερικής πολιτικής και πολιτικής ασφάλειας</lg.version>
+         <lg.version lg="eng">Common foreign and security policy agency</lg.version>
+         <lg.version lg="est">Ühise välis- ja julgeolekupoliitika amet</lg.version>
+         <lg.version lg="fin">Yhteisen ulko- ja turvallisuuspolitiikan virasto</lg.version>
+         <lg.version lg="fra">Agence de la politique étrangère et de sécurité commune</lg.version>
+         <lg.version lg="gle">Ghníomhaireacht an chomhbheartais eachtraigh agus slándála</lg.version>
+         <lg.version lg="hrv">Agencija za zajedničku vanjsku i sigurnosnu politiku</lg.version>
+         <lg.version lg="hun">Közös kül- és biztonságpolitikai ügynökség</lg.version>
+         <lg.version lg="ita">Agenzia per la politica estera e di sicurezza comune</lg.version>
+         <lg.version lg="lav">Kopējās ārpolitikas un drošības politikas aģentūra</lg.version>
+         <lg.version lg="lit">Bendra užsienio ir saugumo politika agentūra</lg.version>
+         <lg.version lg="mlt">Aġenzija tal-politika estera u ta' sigurtà komuni</lg.version>
+         <lg.version lg="nld">Agentschap van het gemeenschappelijk buitenlands en veiligheidsbeleid</lg.version>
+         <lg.version lg="pol">Agencja wspólnej polityki zagranicznej i bezpieczeństwa</lg.version>
+         <lg.version lg="por">Agência da política externa e de segurança comum</lg.version>
+         <lg.version lg="ron">Agenția de politică externă și de securitate comune</lg.version>
+         <lg.version lg="slk">Agentúra spoločnej zahraničnej a bezpečnostnej politiky</lg.version>
+         <lg.version lg="slv">Agencija za skupno zunanjo in varnostno politiko</lg.version>
+         <lg.version lg="spa">Agencia de política exterior y de seguridad común</lg.version>
+         <lg.version lg="swe">Byrån för gemensam utrikes- och säkerhetspolitik</lg.version>
+      </label>
+      <parent.id>AGENCY_DEC</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>Decentralised agencies which have been created to support the common foreign and security policy of the European Union or its predecessors.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2002-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC015"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>REPRES</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Представителство</lg.version>
+         <lg.version lg="ces">Zastoupení</lg.version>
+         <lg.version lg="dan">Repræsentationen</lg.version>
+         <lg.version lg="deu">Vertretung</lg.version>
+         <lg.version lg="ell" script="Greek">Αντιπροσωπεία</lg.version>
+         <lg.version lg="eng">Representation</lg.version>
+         <lg.version lg="est">Esindus</lg.version>
+         <lg.version lg="fin">Edustusto</lg.version>
+         <lg.version lg="fra">Représentation</lg.version>
+         <lg.version lg="gle">An ionadaíocht</lg.version>
+         <lg.version lg="hrv">Predstavništvo</lg.version>
+         <lg.version lg="hun">Képviselet</lg.version>
+         <lg.version lg="ita">Rappresentanza</lg.version>
+         <lg.version lg="lav">Pārstāvniecība</lg.version>
+         <lg.version lg="lit">Atstovybė</lg.version>
+         <lg.version lg="mlt">Ir-rappreżentazzjoni</lg.version>
+         <lg.version lg="nld">Vertegenwoordiging</lg.version>
+         <lg.version lg="pol">Przedstawicielstwo</lg.version>
+         <lg.version lg="por">Representação</lg.version>
+         <lg.version lg="ron">Reprezentanță</lg.version>
+         <lg.version lg="slk">Zastúpenie</lg.version>
+         <lg.version lg="slv">Predstavništvo</lg.version>
+         <lg.version lg="spa">Representación</lg.version>
+         <lg.version lg="swe">Representation</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>The European Commission has offices, called Representations, in all the Member States of the European Union.</description>
+            <provenance>COM</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC016"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>DEL</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Делегация</lg.version>
+         <lg.version lg="ces">Delegace</lg.version>
+         <lg.version lg="dan">Delegationen</lg.version>
+         <lg.version lg="deu">Delegation</lg.version>
+         <lg.version lg="ell" script="Greek">Αντιπροσωπεία</lg.version>
+         <lg.version lg="eng">Delegation</lg.version>
+         <lg.version lg="est">Delegatsioon</lg.version>
+         <lg.version lg="fin">Edustusto</lg.version>
+         <lg.version lg="fra">Délégation</lg.version>
+         <lg.version lg="gle">An toscaireacht</lg.version>
+         <lg.version lg="hrv">Izaslanstvo</lg.version>
+         <lg.version lg="hun">Küldöttség</lg.version>
+         <lg.version lg="ita">Delegazione</lg.version>
+         <lg.version lg="lav">Delegācija</lg.version>
+         <lg.version lg="lit">Delegacija</lg.version>
+         <lg.version lg="mlt">Id-delegazzjoni</lg.version>
+         <lg.version lg="nld">Delegatie</lg.version>
+         <lg.version lg="pol">Delegacja</lg.version>
+         <lg.version lg="por">Delegação</lg.version>
+         <lg.version lg="ron">Delegație</lg.version>
+         <lg.version lg="slk">Delegácia</lg.version>
+         <lg.version lg="slv">Delegacija</lg.version>
+         <lg.version lg="spa">Delegación</lg.version>
+         <lg.version lg="swe">Delegation</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>The European External Action Service has delegations worldwide to represent the European Union's diplomatic interests.</description>
+            <provenance>EEAS</provenance>
+         </source>
+      </sources>
+      <start.use>1960-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC017"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>INF_OFF</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Информационно бюро</lg.version>
+         <lg.version lg="ces">Informační kancelář</lg.version>
+         <lg.version lg="dan">Informationskontoret</lg.version>
+         <lg.version lg="deu">Informationsbüro</lg.version>
+         <lg.version lg="ell" script="Greek">Γραφείο πληροφοριών</lg.version>
+         <lg.version lg="eng">Information office</lg.version>
+         <lg.version lg="est">Infobüroo</lg.version>
+         <lg.version lg="fin">Tiedotustoimisto</lg.version>
+         <lg.version lg="fra">Bureau d’information</lg.version>
+         <lg.version lg="gle">An oifig eolais</lg.version>
+         <lg.version lg="hrv">Informacijski ured</lg.version>
+         <lg.version lg="hun">Tájékoztatási iroda</lg.version>
+         <lg.version lg="ita">Ufficio d’informazione</lg.version>
+         <lg.version lg="lav">Informācijas birojs</lg.version>
+         <lg.version lg="lit">Informacijos biuras</lg.version>
+         <lg.version lg="mlt">L-uffiċċju tal-informazzjoni</lg.version>
+         <lg.version lg="nld">Voorlichtingsbureau</lg.version>
+         <lg.version lg="pol">Biuro informacyjne</lg.version>
+         <lg.version lg="por">Gabinete de informação</lg.version>
+         <lg.version lg="ron">Biroul de informare</lg.version>
+         <lg.version lg="slk">Informačná kancelária</lg.version>
+         <lg.version lg="slv">Informacijska pisarna</lg.version>
+         <lg.version lg="spa">Oficina de información</lg.version>
+         <lg.version lg="swe">Informationskontor</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>The European Parliament has information offices in all the Member States of the European Union.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC018"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>DIR_GEN</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Генерална дирекция</lg.version>
+         <lg.version lg="ces">Generální ředitelství</lg.version>
+         <lg.version lg="dan">Generaldirektorat</lg.version>
+         <lg.version lg="deu">Generaldirektion</lg.version>
+         <lg.version lg="ell" script="Greek">Γενική διεύθυνση</lg.version>
+         <lg.version lg="eng">Directorate-general</lg.version>
+         <lg.version lg="est">Peadirektoraat</lg.version>
+         <lg.version lg="fin">Pääosasto</lg.version>
+         <lg.version lg="fra">Direction générale</lg.version>
+         <lg.version lg="gle">Ard-stiúrthóireacht</lg.version>
+         <lg.version lg="hrv">Glavna uprava</lg.version>
+         <lg.version lg="hun">Főigazgatóság</lg.version>
+         <lg.version lg="ita">Direzione generale</lg.version>
+         <lg.version lg="lav">Ģenerāldirektorāts</lg.version>
+         <lg.version lg="lit">Generalinis direktoratas</lg.version>
+         <lg.version lg="mlt">Direttorat ġenerali</lg.version>
+         <lg.version lg="nld">Directoraat-generaal</lg.version>
+         <lg.version lg="pol">Dyrekcja generalna</lg.version>
+         <lg.version lg="por">Direção-geral</lg.version>
+         <lg.version lg="ron">Direcție generală</lg.version>
+         <lg.version lg="slk">Generálne riaditeľstvo</lg.version>
+         <lg.version lg="slv">Generalni direktorat</lg.version>
+         <lg.version lg="spa">Dirección general</lg.version>
+         <lg.version lg="swe">Generaldirektorat</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>A Directorate-General is the highest level of administrative division at the European Commission.</description>
+            <provenance>IATE</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC019"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>DIR</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Дирекция</lg.version>
+         <lg.version lg="ces">Ředitelství</lg.version>
+         <lg.version lg="dan">Direktorat</lg.version>
+         <lg.version lg="deu">Direktion</lg.version>
+         <lg.version lg="ell" script="Greek">Διεύθυνση</lg.version>
+         <lg.version lg="eng">Directorate</lg.version>
+         <lg.version lg="est">Direktoraat</lg.version>
+         <lg.version lg="fin">Osasto</lg.version>
+         <lg.version lg="fra">Direction</lg.version>
+         <lg.version lg="gle">Stiúrthóireacht</lg.version>
+         <lg.version lg="hrv">Uprava</lg.version>
+         <lg.version lg="hun">Igazgatóság</lg.version>
+         <lg.version lg="ita">Direzione</lg.version>
+         <lg.version lg="lav">Direktorāts</lg.version>
+         <lg.version lg="lit">Direktoratas</lg.version>
+         <lg.version lg="mlt">Direttorat</lg.version>
+         <lg.version lg="nld">Directoraat</lg.version>
+         <lg.version lg="pol">Dyrekcja</lg.version>
+         <lg.version lg="por">Direção</lg.version>
+         <lg.version lg="ron">Direcție</lg.version>
+         <lg.version lg="slk">Riaditeľstvo</lg.version>
+         <lg.version lg="slv">Direktorat</lg.version>
+         <lg.version lg="spa">Dirección</lg.version>
+         <lg.version lg="swe">Direktorat</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>A Directorate is the second highest level of administrative division at the European Commission.</description>
+            <provenance>IATE</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC020"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>CMT_MIX</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Смесен комитет</lg.version>
+         <lg.version lg="ces">Smíšený výbor</lg.version>
+         <lg.version lg="dan">Det blandede udvalg</lg.version>
+         <lg.version lg="deu">Gemischter Ausschuss</lg.version>
+         <lg.version lg="ell" script="Greek">Μεικτή επιτροπή</lg.version>
+         <lg.version lg="eng">Joint committee</lg.version>
+         <lg.version lg="est">Ühiskomitee</lg.version>
+         <lg.version lg="fin">Sekakomitea</lg.version>
+         <lg.version lg="fra">Comité mixte</lg.version>
+         <lg.version lg="gle">An comhchoiste</lg.version>
+         <lg.version lg="hrv">Zajednički odbor</lg.version>
+         <lg.version lg="hun">Vegyes bizottság</lg.version>
+         <lg.version lg="ita">Comitato misto</lg.version>
+         <lg.version lg="lav">Apvienotā komiteja</lg.version>
+         <lg.version lg="lit">Jungtinis komitetas</lg.version>
+         <lg.version lg="mlt">Il-kumitat konġunt</lg.version>
+         <lg.version lg="nld">Gemengd comité</lg.version>
+         <lg.version lg="pol">Wspólny komitet</lg.version>
+         <lg.version lg="por">Comité misto</lg.version>
+         <lg.version lg="ron">Comitetul mixt</lg.version>
+         <lg.version lg="slk">Spoločný výbor</lg.version>
+         <lg.version lg="slv">Mešani odbor</lg.version>
+         <lg.version lg="spa">Comité mixto</lg.version>
+         <lg.version lg="swe">Gemensam kommitté</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>A Joint Committee is a body established in a bilateral agreement between the EU (or its predecessors) and a third country or organisation.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1957-03-25</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC021"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>COUN_ASS</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съвет за асоцииране</lg.version>
+         <lg.version lg="ces">Rada přidružení</lg.version>
+         <lg.version lg="dan">Associeringsrådet</lg.version>
+         <lg.version lg="deu">Assoziationsrat</lg.version>
+         <lg.version lg="ell" script="Greek">Συμβούλιο σύνδεσης</lg.version>
+         <lg.version lg="eng">Association council</lg.version>
+         <lg.version lg="est">Assotsiatsiooninõukogu</lg.version>
+         <lg.version lg="fin">Assosiaationeuvosto</lg.version>
+         <lg.version lg="fra">Conseil d’association</lg.version>
+         <lg.version lg="gle">Comhairle comhlachais</lg.version>
+         <lg.version lg="hrv">Vijeće za pridruživanje</lg.version>
+         <lg.version lg="hun">Társulási tanács</lg.version>
+         <lg.version lg="ita">Consiglio di associazione</lg.version>
+         <lg.version lg="lav">Asociācijas padome</lg.version>
+         <lg.version lg="lit">Asociacijos taryba</lg.version>
+         <lg.version lg="mlt">Il-kunsill ta' assoċjazzjoni</lg.version>
+         <lg.version lg="nld">Associatieraad</lg.version>
+         <lg.version lg="pol">Rada stowarzyszenia</lg.version>
+         <lg.version lg="por">Conselho de associação</lg.version>
+         <lg.version lg="ron">Consiliul de asociere</lg.version>
+         <lg.version lg="slk">Rada pre pridruženie</lg.version>
+         <lg.version lg="slv">Pridružitveni svet</lg.version>
+         <lg.version lg="spa">Consejo de asociación</lg.version>
+         <lg.version lg="swe">Associeringsråd</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>An Association Council is a body established in a bilateral agreement between the EU (or its predecessors) and a candidate or Euro-Mediterranean partnership country to monitor the implementation of the association agreement.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1957-03-25</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC022"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>COUN_COOP</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съвет за сътрудничество</lg.version>
+         <lg.version lg="ces">Rada pro spolupráci</lg.version>
+         <lg.version lg="dan">Samarbejdsrådet</lg.version>
+         <lg.version lg="deu">Kooperationsrat</lg.version>
+         <lg.version lg="ell" script="Greek">Συμβούλιο συνεργασίας</lg.version>
+         <lg.version lg="eng">Cooperation council</lg.version>
+         <lg.version lg="est">Koostöönõukogu</lg.version>
+         <lg.version lg="fin">Yhteistyöneuvosto</lg.version>
+         <lg.version lg="fra">Conseil de coopération</lg.version>
+         <lg.version lg="gle">Comhar comhairle</lg.version>
+         <lg.version lg="hrv">Vijeće za suradnju</lg.version>
+         <lg.version lg="hun">Együttműködési tanács</lg.version>
+         <lg.version lg="ita">Consiglio di cooperazione</lg.version>
+         <lg.version lg="lav">Sadarbības padome</lg.version>
+         <lg.version lg="lit">Bendradarbiavimo taryba</lg.version>
+         <lg.version lg="mlt">Il-kunsill ta' kooperazzjoni</lg.version>
+         <lg.version lg="nld">Samenwerkingsraad</lg.version>
+         <lg.version lg="pol">Rada współpracy</lg.version>
+         <lg.version lg="por">Conselho de cooperação</lg.version>
+         <lg.version lg="ron">Consiliul de cooperare</lg.version>
+         <lg.version lg="slk">Rada pre spoluprácu</lg.version>
+         <lg.version lg="slv">Svet za sodelovanje</lg.version>
+         <lg.version lg="spa">Consejo de cooperación</lg.version>
+         <lg.version lg="swe">Samarbetsråd</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>A Cooperation Council is a body established in a bilateral agreement between the EU and a partner country to monitor the implementation of the agreement.</description>
+            <provenance>IATE</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC023"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>EP_CMT</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Парламентарна комисия на ЕП</lg.version>
+         <lg.version lg="ces">Parlamentní výbor Evropského parlamentu</lg.version>
+         <lg.version lg="dan">Udvalg i Europa-Parlamentet</lg.version>
+         <lg.version lg="deu">Ausschuss des Europäischen Parlaments</lg.version>
+         <lg.version lg="ell" script="Greek">Κοινοβουλευτική επιτροπή του ΕΚ</lg.version>
+         <lg.version lg="eng">EP parliamentary committee</lg.version>
+         <lg.version lg="est">Euroopa Parlamendi komisjon</lg.version>
+         <lg.version lg="fin">Euroopan parlamentin valiokunta</lg.version>
+         <lg.version lg="fra">Commission parlementaire du PE</lg.version>
+         <lg.version lg="gle">Coiste parlaiminteach PE</lg.version>
+         <lg.version lg="hrv">Parlamentarni odbori EP-a</lg.version>
+         <lg.version lg="hun">Európai parlamenti bizottság</lg.version>
+         <lg.version lg="ita">Commissione parlamentare PE</lg.version>
+         <lg.version lg="lav">EP parlamentārā komiteja</lg.version>
+         <lg.version lg="lit">EP parlamentinis komitetas</lg.version>
+         <lg.version lg="mlt">Kumitat parlamentari tal-PE</lg.version>
+         <lg.version lg="nld">Parlementaire commissie EP</lg.version>
+         <lg.version lg="pol">Komisja parlamentarna PE</lg.version>
+         <lg.version lg="por">Comissão parlamentar do PE</lg.version>
+         <lg.version lg="ron">Comisii parlamentare (PE)</lg.version>
+         <lg.version lg="slk">Parlamentný výbor EP</lg.version>
+         <lg.version lg="slv">Parlamentarni odbor Evropskega parlamenta</lg.version>
+         <lg.version lg="spa">Comisión parlamentaria del PE</lg.version>
+         <lg.version lg="swe">Utskott i Europaparlamentet</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>
+               <p>European Parliament Members are divided up among a number of specialised standing committees. The committees draw up, amend and adopt legislative proposals and own-initiative reports. They consider Commission and Council proposals and, where necessary, draw up reports to be presented to the plenary assembly. The political make-up of the committees reflects that of the plenary assembly.</p>
+               <p>Parliament can also set up sub-committees and special temporary committees to deal with specific issues, and is empowered to create committees of inquiry to investigate alleged contraventions or maladministration of EU law.</p>
+            </description>
+            <provenance>EP</provenance>
+         </source>
+      </sources>
+      <start.use>1958-03-19</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC024"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>EP_GROUP</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Политическа група на ЕП</lg.version>
+         <lg.version lg="ces">Politická skupina Evropského parlamentu</lg.version>
+         <lg.version lg="dan">Politisk gruppe i Europa-Parlamentet</lg.version>
+         <lg.version lg="deu">Fraktion des Europäischen Parlaments</lg.version>
+         <lg.version lg="ell" script="Greek">Πολιτική ομάδα του ΕΚ</lg.version>
+         <lg.version lg="eng">EP political group</lg.version>
+         <lg.version lg="est">Euroopa Parlamendi fraktsioon</lg.version>
+         <lg.version lg="fin">Euroopan parlamentin poliittinen ryhmä</lg.version>
+         <lg.version lg="fra">Groupe politique du PE</lg.version>
+         <lg.version lg="gle">Grúpa polaitiúil PE</lg.version>
+         <lg.version lg="hrv">Klubovi zastupnika EP-a</lg.version>
+         <lg.version lg="hun">Európai parlamenti képviselőcsoport</lg.version>
+         <lg.version lg="ita">Gruppo politico PE</lg.version>
+         <lg.version lg="lav">EP politiskā grupa</lg.version>
+         <lg.version lg="lit">EP frakcija</lg.version>
+         <lg.version lg="mlt">Grupp politiku tal-PE</lg.version>
+         <lg.version lg="nld">Politieke fractie EP</lg.version>
+         <lg.version lg="pol">Grupa polityczna PE</lg.version>
+         <lg.version lg="por">Grupo político do PE</lg.version>
+         <lg.version lg="ron">Grupuri politice (PE)</lg.version>
+         <lg.version lg="slk">Politická skupina EP</lg.version>
+         <lg.version lg="slv">Politična skupina Evropskega parlamenta</lg.version>
+         <lg.version lg="spa">Grupo político del PE</lg.version>
+         <lg.version lg="swe">Politisk grupp i Europaparlamentet</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>The Members of the European Parliament sit in political groups organised by political affiliation. 25 Members are needed to form a political group, and at least one-quarter of the Member States must be represented within the group. Members may not belong to more than one political group. Some Members do not belong to any political group and are known as non-attached Members.</description>
+            <provenance>EP</provenance>
+         </source>
+      </sources>
+      <start.use>1958-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC025"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>EP_DIR_GEN</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Генерална дирекция на ЕП</lg.version>
+         <lg.version lg="ces">Generální ředitelství Evropského parlamentu</lg.version>
+         <lg.version lg="dan">Generaldirektorat i Europa-Parlamentet</lg.version>
+         <lg.version lg="deu">Generaldirektion des Europäischen Parlaments</lg.version>
+         <lg.version lg="ell" script="Greek">Γενική διεύθυνση του ΕΚ</lg.version>
+         <lg.version lg="eng">EP directorate-general</lg.version>
+         <lg.version lg="est">Euroopa Parlamendi peadirektoraat</lg.version>
+         <lg.version lg="fin">Euroopan parlamentin pääosasto</lg.version>
+         <lg.version lg="fra">Direction générale du PE</lg.version>
+         <lg.version lg="gle">Ard-stiúrthóireacht PE</lg.version>
+         <lg.version lg="hrv">Glavna uprava EP-a</lg.version>
+         <lg.version lg="hun">Európai parlamenti főigazgatóság</lg.version>
+         <lg.version lg="ita">Direzione generale PE</lg.version>
+         <lg.version lg="lav">EP ģenerāldirektorāts</lg.version>
+         <lg.version lg="lit">EP generalinis direktoratas</lg.version>
+         <lg.version lg="mlt">Direttorat ġenerali tal-PE</lg.version>
+         <lg.version lg="nld">Directoraat-generaal EP</lg.version>
+         <lg.version lg="pol">Dyrekcja generalna PE</lg.version>
+         <lg.version lg="por">Direção‑geral do PE</lg.version>
+         <lg.version lg="ron">Direcție generală (PE)</lg.version>
+         <lg.version lg="slk">Generálne riaditeľstvo EP</lg.version>
+         <lg.version lg="slv">Generalni direktorat Evropskega parlamenta</lg.version>
+         <lg.version lg="spa">Dirección general del PE</lg.version>
+         <lg.version lg="swe">Generaldirektorat vid Europaparlamentet</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>An EP Directorate-General is the highest level of administrative division at the European Parliament.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1952-07-23</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC026"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>COR_COM</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Комисия на КР</lg.version>
+         <lg.version lg="ces">Komise VR</lg.version>
+         <lg.version lg="dan">Underudvalg i Regionsudvalget</lg.version>
+         <lg.version lg="deu">AdR-Kommission</lg.version>
+         <lg.version lg="ell" script="Greek">Επιτροπή της ΕτΠ</lg.version>
+         <lg.version lg="eng">COR commission</lg.version>
+         <lg.version lg="est">Regioonide Komitee komisjon</lg.version>
+         <lg.version lg="fin">Alueiden komitean valiokunta</lg.version>
+         <lg.version lg="fra">Commission du CdR</lg.version>
+         <lg.version lg="gle">Coimisiún CnR</lg.version>
+         <lg.version lg="hrv">Komisija OR-a</lg.version>
+         <lg.version lg="hun">A Régiók Bizottságának szakbizottsága</lg.version>
+         <lg.version lg="ita">Commissione CdR</lg.version>
+         <lg.version lg="lav">Reģionu komitejas komisija</lg.version>
+         <lg.version lg="lit">RK komisija</lg.version>
+         <lg.version lg="mlt">Kummissjoni tal-KtR</lg.version>
+         <lg.version lg="nld">Commissie CvdR</lg.version>
+         <lg.version lg="pol">Komisja KR</lg.version>
+         <lg.version lg="por">Comissão do CR</lg.version>
+         <lg.version lg="ron">Comisie (CoR)</lg.version>
+         <lg.version lg="slk">Komisia VR</lg.version>
+         <lg.version lg="slv">Komisija Odbora regij</lg.version>
+         <lg.version lg="spa">Comisión del CDR</lg.version>
+         <lg.version lg="swe">Utskott i Regionkommittén</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>Separate commissions (groups of Members) prepare the opinions of the Committee of the Regions in response to proposed new legislation by the European Commission. The composition of each Commission reflects the political and national composition of the CoR.</description>
+            <provenance>Committee of the Regions</provenance>
+         </source>
+      </sources>
+      <start.use>1994-03-09</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC027"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>COR_GROUP</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Група на КР</lg.version>
+         <lg.version lg="ces">Skupina VR</lg.version>
+         <lg.version lg="dan">Gruppe i Regionsudvalget</lg.version>
+         <lg.version lg="deu">AdR-Fachkommission</lg.version>
+         <lg.version lg="ell" script="Greek">Ομάδα της ΕτΠ</lg.version>
+         <lg.version lg="eng">COR group</lg.version>
+         <lg.version lg="est">Regioonide Komitee rühm</lg.version>
+         <lg.version lg="fin">Alueiden komitean ryhmä</lg.version>
+         <lg.version lg="fra">Groupe du CdR</lg.version>
+         <lg.version lg="gle">Grúpa CnR</lg.version>
+         <lg.version lg="hrv">Skupina OR-a</lg.version>
+         <lg.version lg="hun">A Régiók Bizottságának politikai csoportja</lg.version>
+         <lg.version lg="ita">Gruppo CdR</lg.version>
+         <lg.version lg="lav">Reģionu komitejas politiskā grupa</lg.version>
+         <lg.version lg="lit">RK frakcija</lg.version>
+         <lg.version lg="mlt">Grupp tal-KtR</lg.version>
+         <lg.version lg="nld">Groep CvdR</lg.version>
+         <lg.version lg="pol">Grupa KR</lg.version>
+         <lg.version lg="por">Grupo do CR</lg.version>
+         <lg.version lg="ron">Grup (CoR)</lg.version>
+         <lg.version lg="slk">Skupina VR</lg.version>
+         <lg.version lg="slv">Skupina Odbora regij</lg.version>
+         <lg.version lg="spa">Grupo del CDR</lg.version>
+         <lg.version lg="swe">Grupp i Regionkommittén</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>The members of the Committee of the Regions have formed groups which reflect their political affiliations. Each group has its own secretariat.</description>
+            <provenance>Committee of the Regions</provenance>
+         </source>
+      </sources>
+      <start.use>1994-03-09</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC028"
+           IMMC.proposal.date="2017-01-13"
+           IMMC.approval.date="2017-01-27"
+           date.creation="2016-01-11"
+           adm.status="current">
+      <authority-code>COR_DIR</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Дирекция на КР</lg.version>
+         <lg.version lg="ces">Ředitelství VR</lg.version>
+         <lg.version lg="dan">Direktorat i Regionsudvalget</lg.version>
+         <lg.version lg="deu">AdR-Direktion</lg.version>
+         <lg.version lg="ell" script="Greek">Διεύθυνση της ΕτΠ</lg.version>
+         <lg.version lg="eng">COR directorate</lg.version>
+         <lg.version lg="est">Regioonide Komitee direktoraat</lg.version>
+         <lg.version lg="fin">Alueiden komitean osasto</lg.version>
+         <lg.version lg="fra">Direction du CdR</lg.version>
+         <lg.version lg="gle">Stiúrthóireacht CnR</lg.version>
+         <lg.version lg="hrv">Uprava OR-a</lg.version>
+         <lg.version lg="hun">A Régiók Bizottságának igazgatósága</lg.version>
+         <lg.version lg="ita">Direzione CdR</lg.version>
+         <lg.version lg="lav">Reģionu komitejas direktorāts</lg.version>
+         <lg.version lg="lit">RK direktoratas</lg.version>
+         <lg.version lg="mlt">Direttorat tal-KtR</lg.version>
+         <lg.version lg="nld">Directoraat CvdR</lg.version>
+         <lg.version lg="pol">Dyrekcja KR</lg.version>
+         <lg.version lg="por">Direção do CR</lg.version>
+         <lg.version lg="ron">Direcție (CoR)</lg.version>
+         <lg.version lg="slk">Riaditeľstvo VR</lg.version>
+         <lg.version lg="slv">Direktorat Odbora regij</lg.version>
+         <lg.version lg="spa">Dirección del CDR</lg.version>
+         <lg.version lg="swe">Direktorat vid Regionkommittén</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2016-01-11" lg="eng">
+            <description>A Directorate is the highest level of administrative division at the Committee of the Regions.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2012-01-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC029"
+           IMMC.proposal.date="2017-11-13"
+           IMMC.approval.date="2017-11-20"
+           date.creation="2017-11-13"
+           adm.status="current">
+      <authority-code>COUN_STAB_ASS</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съвет за стабилизиране и асоцииране</lg.version>
+         <lg.version lg="ces">Rada stabilizace a přidružení</lg.version>
+         <lg.version lg="dan">Stabiliserings- og associeringsråd</lg.version>
+         <lg.version lg="deu">Stabilitäts- und Assoziationsrat</lg.version>
+         <lg.version lg="ell" script="Greek">Συμβούλιο σταθεροποίησης και σύνδεσης</lg.version>
+         <lg.version lg="eng">Stabilisation and association council</lg.version>
+         <lg.version lg="est">Stabiliseerimis- ja assotsiatsiooninõukogu</lg.version>
+         <lg.version lg="fin">Vakautus- ja assosiaationeuvosto</lg.version>
+         <lg.version lg="fra">Conseil de stabilisation et d’association</lg.version>
+         <lg.version lg="gle">Comhairle cobhsaíochta agus comhlachais</lg.version>
+         <lg.version lg="hrv">Vijeće za stabilizaciju i pridruživanje</lg.version>
+         <lg.version lg="hun">Stabilizációs és társulási tanács</lg.version>
+         <lg.version lg="ita">Consiglio di stabilizzazione e di associazione</lg.version>
+         <lg.version lg="lav">Stabilizācijas un asociācijas padome</lg.version>
+         <lg.version lg="lit">Stabilizacijos ir asociacijos taryba</lg.version>
+         <lg.version lg="mlt">Il-kunsill ta' stabbilizzazzjoni u ta' assoċjazzjoni</lg.version>
+         <lg.version lg="nld">Stabilisatie- en associatieraad</lg.version>
+         <lg.version lg="pol">Rada stabilizacji i stowarzyszenia</lg.version>
+         <lg.version lg="por">Conselho de estabilização e de associação</lg.version>
+         <lg.version lg="ron">Consiliul de stabilizare și de asociere</lg.version>
+         <lg.version lg="slk">Rada pre stabilizáciu a pridruženie</lg.version>
+         <lg.version lg="slv">Stabilizacijsko-pridružitveni svet</lg.version>
+         <lg.version lg="spa">Consejo de estabilización y asociación</lg.version>
+         <lg.version lg="swe">Stabiliserings- och associeringsråd</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2017-11-13" lg="eng">
+            <description>A Stabilisation and Association Council is a body established in a bilateral agreement between the EU and a Western Balkan country to monitor the implementation of the stabilisation and association agreement.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2009-12-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC030"
+           IMMC.proposal.date="2018-08-29"
+           IMMC.approval.date="2018-09-12"
+           date.creation="2018-08-23"
+           adm.status="current">
+      <authority-code>LIA_OFF</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Бюро за връзка</lg.version>
+         <lg.version lg="ces">Kontaktní kancelář</lg.version>
+         <lg.version lg="dan">Forbindelseskontor</lg.version>
+         <lg.version lg="deu">Verbindungsbüro</lg.version>
+         <lg.version lg="ell" script="Greek">Γραφείο συνδέσμου</lg.version>
+         <lg.version lg="eng">Liaison office</lg.version>
+         <lg.version lg="est">Büroo</lg.version>
+         <lg.version lg="fin">Yhteystoimisto</lg.version>
+         <lg.version lg="fra">Bureau de liaison</lg.version>
+         <lg.version lg="gle">Oifig idirchaidrimh</lg.version>
+         <lg.version lg="hrv">Ured za vezu</lg.version>
+         <lg.version lg="hun">Kapcsolattartó iroda</lg.version>
+         <lg.version lg="ita">Ufficio di collegamento</lg.version>
+         <lg.version lg="lav">Birojs</lg.version>
+         <lg.version lg="lit">Ryšių biuras</lg.version>
+         <lg.version lg="mlt">Uffiċċju ta’ kollegament</lg.version>
+         <lg.version lg="nld">Liaisonbureau</lg.version>
+         <lg.version lg="pol">Biuro kontaktowe</lg.version>
+         <lg.version lg="por">Gabinete de ligação</lg.version>
+         <lg.version lg="ron">Biroul de legătură</lg.version>
+         <lg.version lg="slk">Styčná kancelária</lg.version>
+         <lg.version lg="slv">Pisarna za stike</lg.version>
+         <lg.version lg="spa">Oficina de enlace</lg.version>
+         <lg.version lg="swe">Förbindelsekontor</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources>
+         <source date="2018-08-23" lg="eng">
+            <description>The European Parliament has liaison offices in all the Member States of the European Union and one in the United States.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2018-07-01</start.use>
+   </record>
+   <record deprecated="false"
+           id="CBC031"
+           IMMC.proposal.date="2018-08-29"
+           IMMC.approval.date="2018-09-12"
+           date.creation="2018-06-30"
+           adm.status="current">
+      <authority-code>SERV_DEP</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Служба</lg.version>
+         <lg.version lg="ces">Služba</lg.version>
+         <lg.version lg="dan">Tjeneste</lg.version>
+         <lg.version lg="deu">Dienst</lg.version>
+         <lg.version lg="ell" script="Greek">Υπηρεσία</lg.version>
+         <lg.version lg="eng">Service</lg.version>
+         <lg.version lg="est">Talitus</lg.version>
+         <lg.version lg="fin">Palveluyksikkö</lg.version>
+         <lg.version lg="fra">Service</lg.version>
+         <lg.version lg="gle">An tseirbhís</lg.version>
+         <lg.version lg="hrv">Služba</lg.version>
+         <lg.version lg="hun">Szolgálat</lg.version>
+         <lg.version lg="ita">Servizio</lg.version>
+         <lg.version lg="lav">Dienests</lg.version>
+         <lg.version lg="lit">Tarnyba</lg.version>
+         <lg.version lg="mlt">Servizz</lg.version>
+         <lg.version lg="nld">Dienst</lg.version>
+         <lg.version lg="pol">Służba</lg.version>
+         <lg.version lg="por">Serviço</lg.version>
+         <lg.version lg="ron">Serviciu</lg.version>
+         <lg.version lg="slk">Služba</lg.version>
+         <lg.version lg="slv">Služba</lg.version>
+         <lg.version lg="spa">Servicio</lg.version>
+         <lg.version lg="swe">Tjänsten</lg.version>
+      </label>
+      <parent.id>CB_EU</parent.id>
+      <sources url="https://ec.europa.eu/info/about-european-commission/organisational-structure/how-commission-organised_en">
+         <source date="2018-08-30" lg="eng">
+            <description>A service department which deals with particular administrative issues.</description>
+            <provenance>European Commission</provenance>
+         </source>
+      </sources>
+      <start.use>1983-02-01</start.use>
+   </record>
+</corporate-body-classification>

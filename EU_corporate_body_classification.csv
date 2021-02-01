@@ -1,0 +1,32 @@
+authority-code,name
+CB,Corporate body
+CB_EU,European Union corporate body
+CB_INT,International organisation
+CB_OTHER,Other organisation
+EU_INST,EU institution
+EU_BODY,EU body
+EU_INTERINSTSERV,EU interinstitutional service
+EU_JU,EU joint undertaking
+EU_AGENCY,EU agency
+AGENCY_DEC,Decentralised agency
+AGENCY_EXEC,Executive agency
+AGENCY_OTHER,Other agency
+AGENCY_EURATOM,Euratom agency
+AGENCY_CFSP,Common foreign and security policy agency
+REPRES,Representation
+DEL,Delegation
+INF_OFF,Information office
+DIR_GEN,Directorate-general
+DIR,Directorate
+CMT_MIX,Joint committee
+COUN_ASS,Association council
+COUN_COOP,Cooperation council
+EP_CMT,EP parliamentary committee
+EP_GROUP,EP political group
+EP_DIR_GEN,EP directorate-general
+COR_COM,COR commission
+COR_GROUP,COR group
+COR_DIR,COR directorate
+COUN_STAB_ASS,Stabilisation and association council
+LIA_OFF,Liaison office
+SERV_DEP,Service
